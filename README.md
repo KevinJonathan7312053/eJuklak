@@ -1,4 +1,4 @@
 eJuklak
 ======
 
-Juklak FTIS Unpar Versi Elektronik
+Juklak FTIS Unpar Versi Elektroniks
