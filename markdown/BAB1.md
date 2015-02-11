@@ -113,7 +113,7 @@ Sasaran FTIS adalah sebagai berikut :
 3.	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 4.	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 
-### 1.3 Keberhasilan FTIS
+## 1.3 Keberhasilan FTIS
 
 Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 
 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan 
