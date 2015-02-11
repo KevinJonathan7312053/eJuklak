@@ -92,6 +92,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
+
 #### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut: 
