@@ -92,7 +92,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
-## 1.2.3 Tujuan FTIS
+#### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut: 
 
@@ -103,10 +103,10 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-## 1.2.4 SASARAN FTIS
+#### 1.2.4 SASARAN FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
-2.	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
+2.	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan 		keunggulan.
 3.	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 4.	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
