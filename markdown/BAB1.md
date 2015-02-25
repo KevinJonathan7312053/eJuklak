@@ -26,8 +26,7 @@ Tim Penyusun
 
 Copyright (c) 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
--------------------------------------------------------------------------------------------
+## Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
 dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993,
@@ -116,7 +115,7 @@ Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
 UNPAR.
 
 
-##### 1.2.1 VISI FTIS
+#### 1.2.1 VISI FTIS
 
 Visi FTIS 2020 adalah sebagai berikut: 
 
@@ -154,7 +153,7 @@ akademik yang kondusif merupakan bagian yang sangat penting dalam
 pembentukan manusia yang bermartabat dan pengembangan potensi lokal 
 tersebut. 
 
-##### 1.2.2 MISI FTIS
+#### 1.2.2 MISI FTIS
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
@@ -173,7 +172,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
 
-##### 1.2.3 Tujuan FTIS
+#### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut: 
 
@@ -184,7 +183,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-##### 1.2.4 SASARAN FTIS
+#### 1.2.4 SASARAN FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
@@ -214,7 +213,9 @@ diselenggarakan oleh organisasi ACM (Association of Computing
 Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti 
 kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan 
 sebagainya. 
+
 ### 1.4 Pengelola Fakultas
+
 * SENAT FTIS
    *  Ketua     : Agus Sukmana,  SSi, MSc
    *  Sekretaris: Philips Nicolas Gunawidjaja, BSc, PhD
@@ -243,6 +244,7 @@ sebagainya.
     * Staf Akademik: Rikie Setiawan, S.AB.
 
 ### 1.5 Daftar Dosen FTIS
+
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
 * Guru Besar
