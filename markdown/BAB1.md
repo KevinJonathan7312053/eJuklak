@@ -78,9 +78,9 @@ Dekan,
 Paulus Cahyono Tjiang, Ph.D.
 
 
-#Bab 1 : Pendahuluan
+## Bab 1 : Pendahuluan
 
-##1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
 
@@ -94,7 +94,7 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
 
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
-## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
+### 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah 
 
@@ -116,7 +116,7 @@ Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
 UNPAR.
 
 
-#### 1.2.1 VISI FTIS
+##### 1.2.1 VISI FTIS
 
 Visi FTIS 2020 adalah sebagai berikut: 
 
@@ -154,7 +154,7 @@ akademik yang kondusif merupakan bagian yang sangat penting dalam
 pembentukan manusia yang bermartabat dan pengembangan potensi lokal 
 tersebut. 
 
-#### 1.2.2 MISI FTIS
+##### 1.2.2 MISI FTIS
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
@@ -173,7 +173,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
 
-#### 1.2.3 Tujuan FTIS
+##### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut: 
 
@@ -184,7 +184,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-#### 1.2.4 SASARAN FTIS
+##### 1.2.4 SASARAN FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
@@ -193,7 +193,7 @@ Sasaran FTIS adalah sebagai berikut :
 4.	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 5.	
 
-## 1.3 Keberhasilan FTIS
+### 1.3 Keberhasilan FTIS
 
 Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 
 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan 
@@ -214,7 +214,7 @@ diselenggarakan oleh organisasi ACM (Association of Computing
 Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti 
 kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan 
 sebagainya. 
-## 1.4 Pengelola Fakultas
+### 1.4 Pengelola Fakultas
 * SENAT FTIS
    *  Ketua     : Agus Sukmana,  SSi, MSc
    *  Sekretaris: Philips Nicolas Gunawidjaja, BSc, PhD
@@ -242,7 +242,7 @@ sebagainya.
     * Kasubag Umum & Perlengkapan:	Walip, A.Md
     * Staf Akademik: Rikie Setiawan, S.AB.
 
-##1.5 Daftar Dosen FTIS
+### 1.5 Daftar Dosen FTIS
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
 * Guru Besar
