@@ -5,6 +5,14 @@ Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 
 FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
+UNIVERSITAS KATOLIK PARAHYANGAN
+
+Jl. Ciumbuleuit 94 Bandung 40141
+Tlp. +62-22-204-1964 Ext. 707
+Faks. +62-22-204-2141
+ftis@unpar.ac.id
+http://www.unpar.ac.id
+
 Tim Penyusun
 
 * Cecilia Esti Nugraheni
@@ -27,8 +35,10 @@ Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
 
+
 Bandung,     
 Dekan,
+
 
 
 Paulus Cahyono Tjiang, Ph.D.
