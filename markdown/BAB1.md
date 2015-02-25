@@ -1,7 +1,7 @@
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 =================================================
 
-![](images/logo-unpar.png)
+![](http://lpm.unpar.ac.id/weblpm/assets/images/unpar.png)
 
 FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
@@ -69,7 +69,6 @@ yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan
 buku ini sangat kami harapkan dan hargai.
 
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
-
 
 
 Bandung,     
