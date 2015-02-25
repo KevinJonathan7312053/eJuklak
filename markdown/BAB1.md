@@ -1,6 +1,8 @@
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 =================================================
 
+![](images/logo-unpar.png)
+
 FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
 UNIVERSITAS KATOLIK PARAHYANGAN
