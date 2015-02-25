@@ -77,8 +77,6 @@ Bandung,
 Dekan,
 
 
-
-
 Paulus Cahyono Tjiang, Ph.D.
 
 
