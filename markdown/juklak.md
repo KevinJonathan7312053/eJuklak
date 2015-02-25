@@ -1,7 +1,7 @@
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 ======================================================
 
-![](images/unpar.png)
+![](http://itwarmup.com/wp-content/uploads/2013/11/logo-unpar.png)
 
 FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
