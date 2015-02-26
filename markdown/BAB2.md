@@ -168,3 +168,9 @@ Total: 18 SKS
 | AMS499    | Skripsi                      |       |   6   |
 | ABCXYZ    | Pilihan                      |       |   9   |
 Total: 15 SKS
+  
+#### 2.5.2 Mata Kuliah Pilihan Progam Studi Matematika
+
+Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
+
+#### Kelompok Bidang Kajian: Rekayasa Keuangan
