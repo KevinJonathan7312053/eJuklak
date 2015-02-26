@@ -94,7 +94,8 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | MKU012    | Logika                       |   R   |   2   |
 | MKU010    | Bahasa Inggris               |       |   2   |
 Total: 19 SKS  
-  
+
+
 **SEMESTER 2**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -107,7 +108,8 @@ Total: 19 SKS
 | MKU003    | Agama Katolik +              |       |   2   |
 | MKU004    | Fenomologi Agama +           |       |   2   |
 Total: 19 SKS  
-  
+
+
 **SEMESTER 3**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -119,7 +121,8 @@ Total: 19 SKS
 | AMS271    | Metoda Matematika            |       |   3   |
 | MKU008    | Etika                        |   R   |   2   |
 Total: 18 SKS
-  
+
+
 **SEMESTER 4**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -130,7 +133,8 @@ Total: 18 SKS
 | AMS272    | Persamaan Diferensial Biasa  |       |   4   |
 | AMS273    | Komputasi Matematika         |       |   2   |
 Total: 18 SKS  
-  
+
+
 **SEMESTER 5**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -141,7 +145,8 @@ Total: 18 SKS
 | MKU002    | Pendidikan Kewarganegaraan   |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   6   |
 Total: 19 SKS  
-  
+
+
 **SEMESTER 6**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -150,7 +155,8 @@ Total: 19 SKS
 | MKU009    | Bahasa Indonesia             |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   12  |
 Total: 18 SKS  
-  
+
+
 **SEMESTER 7**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -160,7 +166,8 @@ Total: 18 SKS
 | MKU001    | Pancasila                    |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   9   |
 Total: 18 SKS  
-  
+
+
 **SEMESTER 8**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
@@ -168,7 +175,8 @@ Total: 18 SKS
 | AMS499    | Skripsi                      |       |   6   |
 | ABCXYZ    | Pilihan                      |       |   9   |
 Total: 15 SKS
-  
+
+
 #### 2.5.2 Mata Kuliah Pilihan Progam Studi Matematika
 
 Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
