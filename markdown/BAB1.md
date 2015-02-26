@@ -129,16 +129,14 @@ tersebut.
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi
-   FTIS untuk menghasilkan lulusan yang:
-    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta
-	   aplikasinya.
-    b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains
-	   melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta
-	   menerapkannya untuk peningkatan martabat manusia.
+   FTIS untuk menghasilkan lulusan yang:   
+  1. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.  
+  2. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian 			berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang 
    dapat meningkatkan martabat manusia secara langsung ataupun tidak 
    langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses 
-   pembelajaran dan pengabdian kepada masyarakat. 3. Menjalin kerja sama 
+   pembelajaran dan pengabdian kepada masyarakat.  
+3. Menjalin kerja sama 
    dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
@@ -156,12 +154,12 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 #### 1.2.4 SASARAN FTIS
 
-Sasaran FTIS adalah sebagai berikut :
-1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
-2.	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan 		keunggulan.
-3.	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
-4.	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
-5.	
+Sasaran FTIS adalah sebagai berikut :    
+
+1. Tercapainya sistem pengelolaan  yang profesional dan berkualitas.  
+2. Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.  
+3. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.  
+4. Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 
 ### 1.3 Keberhasilan FTIS
 
@@ -187,16 +185,16 @@ sebagainya.
 
 ### 1.4 Pengelola Fakultas
 
-* Senat FTIS
-   *  Ketua: Agus Sukmana,  SSi, MSc
+* SENAT FTIS
+   *  Ketua     : Agus Sukmana,  SSi, MSc
    *  Sekretaris: Philips Nicolas Gunawidjaja, BSc, PhD
 * Dekanat
-    * Dekan: Paulus Cahyono Tjiang, SSi, PhD
+    * Dekan	: Paulus Cahyono Tjiang, SSi, PhD
     * WD 1 (Akademik):	Dr. Thomas Anung Basuki
     * WD II (Keuangan dan Sumberdaya): Maria Anestasia, SSi, MSi
     * WD III (Kemahasiswaan dan Alumni): Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
 * Program Studi Matematika
-    * Ketua: Dr. Ferry Jaya Permana
+    * Ketua:	Dr. Ferry Jaya Permana
     * Sekretaris: Livia Owen, SSi, MSi
 * Program Studi Fisika
     * Ketua:	Philips Nicolas Gunawidjaja, BSc, PhD
