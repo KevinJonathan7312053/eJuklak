@@ -79,3 +79,92 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | --------- | :--------------------------: | :---: | --------------------: |
 | AKS144    | Pemrograman Komputer         |   3   | Matematika            |
 
+### 2.5 Kurikulum Program Studi Matematika
+
+#### 2.5.1 Susunan Mata Kuliah
+
+**SEMESTER 1**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS121    | Kalkulus 1                   |   R   |   4   |
+| AMS123    | Pemecahan Masalah Matematika |       |   3   |
+| AMS151    | Statistika Elementer         |       |   4   |
+| AMS181    | Fisika Dasar                 |  R,P  |   4   |
+| MKU012    | Logika                       |   R   |   2   |
+| MKU010    | Bahasa Inggris               |       |   2   |
+Total: 19 SKS  
+  
+**SEMESTER 2**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS122    | Kalkulus 2                   |       |   4   |
+| AMS123    | Matematika Diskret           |       |   4   |
+| AMS126    | Aljabar Matriks              |       |   4   |
+| AIF112    | Pemrograman Komputer         |       |   3   |
+| MKU011    | Estetika                     |       |   2   |
+| MKU003    | Agama Katolik +              |       |   2   |
+| MKU004    | Fenomologi Agama +           |       |   2   |
+Total: 19 SKS  
+  
+**SEMESTER 3**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS221    | Kalkulus Vektor              |   R   |   4   |
+| AMS231    | Teori Suku Bunga             |       |   3   |
+| AMS251    | Teori Peluang                |       |   4   |
+| AMS253    | Komputasi Statistika         |       |   2   |
+| AMS271    | Metoda Matematika            |       |   3   |
+| MKU008    | Etika                        |   R   |   2   |
+Total: 18 SKS
+  
+**SEMESTER 4**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS222    | Aljabar Linear               |   R   |   4   |
+| AMS252    | Statistika Matematika        |       |   4   |
+| AMS261    | Optimasi                     |       |   4   |
+| AMS272    | Persamaan Diferensial Biasa  |       |   4   |
+| AMS273    | Komputasi Matematika         |       |   2   |
+Total: 18 SKS  
+  
+**SEMESTER 5**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS321    | Fungsi Kompleks              |       |   4   |
+| AMS351    | Proses Stokastik             |       |   4   |
+| AMS373    | Metoda Numerik               |       |   3   |
+| MKU002    | Pendidikan Kewarganegaraan   |       |   2   |
+| ABCXYZ    | Pilihan                      |       |   6   |
+Total: 19 SKS  
+  
+**SEMESTER 6**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS322    | Analisis Real                |   R   |   4   |
+| MKU009    | Bahasa Indonesia             |       |   2   |
+| ABCXYZ    | Pilihan                      |       |   12  |
+Total: 18 SKS  
+  
+**SEMESTER 7**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS490    | Seminar                      |       |   3   |
+| AMS491    | Pemodelan Matematika         |       |   4   |
+| MKU001    | Pancasila                    |       |   2   |
+| ABCXYZ    | Pilihan                      |       |   9   |
+Total: 18 SKS  
+  
+**SEMESTER 8**  
+
+| Kode      | Nama                         |  APR  |  SKS  |
+| --------- | :--------------------------: | :---: | ----: |
+| AMS499    | Skripsi                      |       |   6   |
+| ABCXYZ    | Pilihan                      |       |   9   |
+Total: 15 SKS
