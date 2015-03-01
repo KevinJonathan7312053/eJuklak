@@ -79,6 +79,26 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | --------- | :--------------------------: | :---: | --------------------: |
 | AKS144    | Pemrograman Komputer         |   3   | Matematika            |
 
+### 2.4 Mata Kuliah Umum
+Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
+
+#### 2.4.1 Susunan Matakuliah Umum
+
+| Kode      | Mata Kuliah                  | SKS   |
+| --------- | :--------------------------: | :---: | 
+| AKS144    | Pendidikan Pancasila         |   2   | 
+| AKS144    | Pendidikan Kewarganegaraan   |   2   | 
+| AKS144    | Agama Katolik                |   2   | 
+| AKS144    | Fenomenologi Agama           |   2   | 
+| AKS144    | Etika                        |   2   | 
+| AKS144    | Bahasa Indonesia             |   2   | 
+| AKS144    | Bahasa Inggris               |   2   | 
+| AKS144    | Estetika                     |   2   | 
+| AKS144    | Logika                       |   2   | 
+
+#### 2.4.2 Uraian Singkat Matakuliah Umum
+
+
 ### 2.5 Kurikulum Program Studi Matematika
 
 #### 2.5.1 Susunan Mata Kuliah
