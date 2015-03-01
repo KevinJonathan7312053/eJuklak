@@ -397,3 +397,14 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 #### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
+
+| KODE MK   | NAMA & DESKRIPSI MATA KULIAH              |
+| --------- | :----------------------------------------:|
+| AIF111    | Pemrograman Komputer/ Computer Programming|
+| -         | Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.|
+| APS101    | PENGENALAN PROGRAM STUDI FISIKA/ INTRODUCTION TO PHYSICS STUDIES|
+| -         | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
+| APS103    | KETRAMPILAN FISIKA/ KEY SKILLS FOR PHYSICS|
+| -         | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.|
+| ICE109    | Kimia Dasar / Chemistry|
+| -         | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
