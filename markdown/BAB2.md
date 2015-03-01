@@ -303,5 +303,97 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 #### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-####2.5.4	DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
+#### 2.6.2 Matakuliah Pilihan Program Studi Fisika
+
+##### Lain-lain 
+
+| Kode      | Nama                                 |  SKS  |
+| --------- | :----------------------------------: | ----: |
+| APS301    | Filsafat Sains                       |   2   |
+| APS302    | Dunia Digital dan Sains              |   2   |
+| APS303    | Didaktika Umum                       |   3   |
+
+##### Kelompok Fisika Teoretik
+
+| Kode      | Nama                                 |  SKS  |
+| --------- | :----------------------------------: | ----: |
+| APS311    | Dinamika Fluida                      |   3   |
+| APS411    | Mekanika Hamiltonian                 |   3   |
+| APS317    | Fisika Matematika Lanjut             |   3   |
+| APS318    | Pemodelan Matematika                 |   3   |
+| APS418    | KapSel. Fisika Matematika            |   3   |
+| APS424    | Teori Relativitas                    |   3   |
+| APS426    | Komputasi Kuantum                    |   3   |
+| APS427    | Mekanika Kuantum Relativistik        |   3   |
+| APS428    | Teori Medan Kuantum                  |   3   |
+| APS429    | KapSel. Fisika Teori                 |   3   |
+
+##### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+
+| Kode      | Nama                                   |  SKS  |
+| --------- | :------------------------------------: | ----: |
+| APS331    | Pemodelan Matematika Gejala Alam       |   3   |
+| APS332    | KapSel. Fisika komputasi               |   3   |
+| APS336    | Instrumentasi Berbasis Komputer        |   3   |
+| APS435    | Pengantar Kontrol Otomatis             |   3   |
+| APS436    | KapSel. Fisika Instrumentasi           |   3   |
+
+##### Kelompok Biofisika
+
+| Kode      | Nama                                    |  SKS  |
+| --------- | :--------------------------------------:| ----: |
+| APS350    | Fisika Instrumentasi Medis              |   3   |
+| APS351    | Biofisika                               |   3   |
+| APS352    | Fisika Kedokteran                       |   3   |
+| APS458    | Kapita Selekta Biofisika                |   3   |
+| APS459    | Kapita Selekta Fisika Kedokteran        |   3   |
+
+##### Kelompok Fisika Material dan Optika
+
+| Kode      | Nama                                    |  SKS  |
+| --------- | :--------------------------------------:| ----: |
+| APS343    | Struktur Materi                         |   3   |
+| APS441    | Reologi                                 |   3   |
+| APS442    | Fisika Polimer                          |   3   |
+| APS443    | Pengantar Kristal Cair                  |   3   |
+| APS444    | Fisika Kristal Cair                     |   3   |
+| APS445    | Pengantar Nanoteknologi                 |   3   |
+| APS446    | Nanoteknologi dan Lingkungan            |       |
+| APS447    | Fisika Laser                            |       |
+| APS448    | Hamburan dan Spektroskopi               |       |
+| APS449    | Kapita Selekta Fisika Material          |       |
+
+##### Kelompok Fisika Bumi
+
+| Kode      | Nama                                    |  SKS  |
+| --------- | :--------------------------------------:| ----: |
+| APS361    | Geofisika                               |   3   |
+| APS362    | Oseanografi Fisis                       |   3   |
+| APS363    | Pemanasan Global                        |   3   |
+| APS364    | Cuaca dan Lingkungan                    |   3   |
+| APS469    | Kapita Selekta Fisika Bumi              |   3   |
+| APS447    | Fisika Laser                            |       |
+
+##### Kelompok Astrofisika
+
+| Kode      | Nama                                    |  SKS  |
+| --------- | :--------------------------------------:| ----: |
+| APS371    | Tata Surya                              |   3   |
+| APS372    | Bintang                                 |   3   |
+| APS373    | Kosmologi                               |   3   |
+| APS474    | Kosmologi Relativistik                  |   3   |
+| APS479    | Kapita Selekta Astrofisika              |   3   |
+
+Komposisi Kuliah wajib dan pilihan adalah 
+•	Kuliah Wajib = 120 sks 
+•	Kuliah Pilihan = 24 sks 
+
+Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (logical consistency), melakukan taksiran (sense of scale), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (open minded), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+
+#### 2.6.3 Peta dan Prasyarat Matakuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+#### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
