@@ -303,7 +303,108 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 #### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA  
+
+### 2.6  Kurikulum Program Studi Fisika
+#### 2.6.1  Susunan Mata Kuliah  
+  
+**Semester 1**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS101  |  Pengenalan Program Studi  |    |  3  
+APS103  |  Keterampilan Fisika  |    |  2  
+APS105  |  Fisika Dasar I  |  R,P  |  3  
+APS107  |  Fisika Matematika I  |  R  |  4  
+AIF111  |  Pemrograman Komputer  |  P  |  3  
+ICE109  |  Kimia Dasar  |    |  2  
+MKU011  |  Estetika  |    |  2  
+    |    |  **Total**  |  **19**
+    
+**Semester 2**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS106  |  Fisika Dasar 2  |  R,P  |  3  
+APS108  |  Fisika Matematika 2  |  R  |  4  
+APS112  |  Mekanika  |  R  |  3  
+APS124  |  Fisika Modern  |  |  3  
+APS132  |  Fisika Komputasi  |  P  |  3  
+MKU012  |  Logika  |    |  2    
+  |    |  **Total**  |  **19**  
+  
+**Semester 3**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS207  |  Fisika Matematika 3  |  R  |  4  
+APS213  |  Gelombang  |  R  |  3  
+APS215  |  Fisika Thermal  |  R  |  3  
+APS225  |  Lab. Fisika Modern  |  P  |  3  
+APS233  |  Elektronika I  |  P  |  3  
+MKU003/MKU004  |  Agama Katolik/Fenomenologi Agama  |    |  2    
+  |    |  **Total**  |  **18**  
+  
+**Semester 4**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS204  |  Projek Bersama  |     |  2  
+APS208  |  Fisika Matematika 4  |  R  |  4  
+APS216  |  Fisika Statistik  |  R  |  3  
+APS222  |  Listrik Magnet  |  R  |  4  
+APS234  |  Elektronika 2  |  P  |  3  
+MKU010  |  Bahasa Inggris  |    |  2    
+  |    |  **Total**  |  **18**  
+  
+**Semester 5**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS323  |  Elektrodinamika  |  R  |  3  
+APS327  |  Fisika Kuantum  |  R  |  4  
+APS335  |  Lab. Fisika Instrumentasi  |  P  |  3  
+APS341  |  Pengantar Fisika Nuklir  |     |  3  
+MKU008  |  Etika  |     |  2  
+        |  Mata Kuliah Pilihan  |    |  3    
+  |    |  **Total**  |  **18**  
+  
+**Semester 6**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS304  |  Teknik Presentasi  |    |  2  
+APS328  |  Mekanika Kuantum  |    |  3  
+APS342  |  Pengantar Fisika Material  |    |  3  
+APS348  |  Optika  |    |  3  
+APS392  |  Seminar  |    |  2  
+MKU009  |  Bahasa Indonesia  |    |  2  
+    |  Mata Kuliah Pilihan  |    |  3  
+    |    |  **Total**  |  **19**  
+    
+**Semester 7**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS497  |  Tugas Akhir I  |    |  4  
+MKU001  |  Pancasila  |    |  2  
+MKU002  |  Kewarganegaraan  |    |  2  
+  |  Mata Kuliah Pilihan  |    |  9  
+    |    |  **Total**  |  **17**  
+    
+**Semester 8**
+
+KODE   |  Nama  |  APR  |  SKS  
+:----: | :---- | :---: | :---:  
+APS402  |  Etika Profesi  |    |  2  
+APS498  |  Tugas AKhir 2  |    |  4  
+SAB315  |  Kewirausahaan  |    |  3  
+  |  Mata Kuliah Pilihan  |    |  9  
+    |    |  **Total**  |  **18**
+    
+
+
+
 
 #### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
