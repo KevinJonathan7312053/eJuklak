@@ -400,12 +400,24 @@ APS402  |  Etika Profesi  |    |  2
 APS498  |  Tugas AKhir 2  |    |  4  
 SAB315  |  Kewirausahaan  |    |  3  
   |  Mata Kuliah Pilihan  |    |  9  
-    |    |  **Total**  |  **18**
+    |    |  **Total**  |  **18**  
     
+Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
 
+No    |  Kelompok Mata kuliah  
+:--:  |  :-------------------  
+1     |  Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)  
+2     |  Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)  
+3     |  Fisika Komputasi, Elektronika, dan Instrumentasi  
+4     |  Fisika Material dan Optika  
+5     |  Biofisika  
+6     |  Fisika Bumi  
+7     |  Astrofisika  
+8     |  Matakuliah Layanan  
+9     |  Seminar dan Skripsi  
+10    |  Kuliah Dasar, Keterampilan Umum, Lain-Lain  
 
-
-
+    
 #### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
 ##### Lain-lain 
