@@ -97,6 +97,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU012    | Logika                       |   2   | 
 
 #### 2.4.2 Uraian Singkat Matakuliah Umum
+
 | NAMA MK  PRASYARAT       | NAMA MATAKULIAH  DESKRIPSI MATAKULIAH                                | 
 | ------------- | :-----------------------------------------------: | 
 | MKU001        | PENDIDIKAN PANCASILA / PANCASILA EDUCATION        | 
@@ -122,7 +123,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 #### 2.5.1 Susunan Mata Kuliah
 
-**SEMESTER 1**  
+##### Semester 1  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -135,7 +136,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 Total: 19 SKS  
 
 
-**SEMESTER 2**  
+##### Semester 2  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -149,7 +150,7 @@ Total: 19 SKS
 Total: 19 SKS  
 
 
-**SEMESTER 3**  
+##### Semester 3  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -162,7 +163,7 @@ Total: 19 SKS
 Total: 18 SKS
 
 
-**SEMESTER 4**  
+##### Semester 4  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -174,7 +175,7 @@ Total: 18 SKS
 Total: 18 SKS  
 
 
-**SEMESTER 5**  
+##### Semester 5  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -186,7 +187,7 @@ Total: 18 SKS
 Total: 19 SKS  
 
 
-**SEMESTER 6**  
+##### Semester 6  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -196,7 +197,7 @@ Total: 19 SKS
 Total: 18 SKS  
 
 
-**SEMESTER 7**  
+##### Semester 7  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -207,7 +208,7 @@ Total: 18 SKS
 Total: 18 SKS  
 
 
-**SEMESTER 8**  
+##### Semester 8  
 
 | Kode      | Nama                         |  APR  |  SKS  |
 | --------- | :--------------------------: | :---: | ----: |
@@ -296,7 +297,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 | AMS480    | Kapita Selekta Pembelajaran Matematika|   3   |
 | AMS381    | Inovasi Pembelajaran Matematika       |   3   |
 | AMS382    | Pembelajaran Matematika Sekolah       |   3   |
-| AMS481    | Kerja Praktek                         |   3   |
+| AMS481    | Kerja Praktek                         |   3   |  
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -308,7 +309,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 ### 2.6  Kurikulum Program Studi Fisika
 #### 2.6.1  Susunan Mata Kuliah  
   
-**Semester 1**
+##### Semester 1  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -321,7 +322,7 @@ ICE109  |  Kimia Dasar  |    |  2
 MKU011  |  Estetika  |    |  2  
     |    |  **Total**  |  **19**
     
-**Semester 2**
+##### Semester 2  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -333,7 +334,7 @@ APS132  |  Fisika Komputasi  |  P  |  3
 MKU012  |  Logika  |    |  2    
   |    |  **Total**  |  **19**  
   
-**Semester 3**
+##### Semester 3  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -345,7 +346,7 @@ APS233  |  Elektronika I  |  P  |  3
 MKU003/MKU004  |  Agama Katolik/Fenomenologi Agama  |    |  2    
   |    |  **Total**  |  **18**  
   
-**Semester 4**
+##### Semester 4
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -357,7 +358,7 @@ APS234  |  Elektronika 2  |  P  |  3
 MKU010  |  Bahasa Inggris  |    |  2    
   |    |  **Total**  |  **18**  
   
-**Semester 5**
+##### Semester 5  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -369,7 +370,7 @@ MKU008  |  Etika  |     |  2
         |  Mata Kuliah Pilihan  |    |  3    
   |    |  **Total**  |  **18**  
   
-**Semester 6**
+##### Semester 6  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -382,7 +383,7 @@ MKU009  |  Bahasa Indonesia  |    |  2
     |  Mata Kuliah Pilihan  |    |  3  
     |    |  **Total**  |  **19**  
     
-**Semester 7**
+##### Semester 7  
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -392,7 +393,7 @@ MKU002  |  Kewarganegaraan  |    |  2
   |  Mata Kuliah Pilihan  |    |  9  
     |    |  **Total**  |  **17**  
     
-**Semester 8**
+##### Semester 8
 
 KODE   |  Nama  |  APR  |  SKS  
 :----: | :---- | :---: | :---:  
@@ -400,24 +401,12 @@ APS402  |  Etika Profesi  |    |  2
 APS498  |  Tugas AKhir 2  |    |  4  
 SAB315  |  Kewirausahaan  |    |  3  
   |  Mata Kuliah Pilihan  |    |  9  
-    |    |  **Total**  |  **18**  
+    |    |  **Total**  |  **18**
     
-Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
 
-No    |  Kelompok Mata kuliah  
-:--:  |  :-------------------  
-1     |  Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)  
-2     |  Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)  
-3     |  Fisika Komputasi, Elektronika, dan Instrumentasi  
-4     |  Fisika Material dan Optika  
-5     |  Biofisika  
-6     |  Fisika Bumi  
-7     |  Astrofisika  
-8     |  Matakuliah Layanan  
-9     |  Seminar dan Skripsi  
-10    |  Kuliah Dasar, Keterampilan Umum, Lain-Lain  
 
-    
+
+
 #### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
 ##### Lain-lain 
@@ -522,7 +511,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | ICE109    | Kimia Dasar / Chemistry|
 | -         | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
 
-![](images/unpar.png)
 Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK   | NAMA & DESKRIPSI MATA KULIAH              |
@@ -587,9 +575,9 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | - |Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.|
 
 ### 2.7 Kurikulum Program Studi Teknik Informatika
-##### 2.7.1 Sususan matakuliah
+#### 2.7.1 Sususan matakuliah
 
-Semester 1
+##### Semester 1
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -601,7 +589,7 @@ MKU008	| Etika	| | 2
 MKU010	| Bahasa Inggris | | 2
 | | |  TOTAL	| 18
 
-Semester 2
+##### Semester 2
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -613,7 +601,7 @@ MKU009	|Bahasa Indonesia| |		2
 MKU011	|Estetika| |		2
 | |  |TOTAL	|18
 
-Semester 3
+##### Semester 3
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -625,7 +613,7 @@ MKU003 / MKU004|	Agama Katolik /	Fenomenologi Agama| |	2
 MKU012	|Logika	| |	2
 | | |TOTAL	|18
 
-Semester 4
+##### Semester 4
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -636,7 +624,7 @@ AIF208	|Rekayasa Perangkat Lunak| |		4
 AIF210	|Interaksi Manusia Komputer	| |	2			
 | | |TOTAL	|18
 
-Semester 5
+##### Semester 5
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -651,7 +639,7 @@ AIFXXX	|MK Pilihan	| |	2
 MKU002	|Kewarganegaraan| |		2
 | | |TOTAL	|18
 
-Semester 6
+##### Semester 6
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -665,7 +653,7 @@ AIF318	|Pemrograman Aplikasi Bergerak1	|R|	2
 AIFXXX	|MK Pilihan	| |	6
 | | |TOTAL	|18
 
-Semester 7
+##### Semester 7
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -675,7 +663,7 @@ AIF405	|Proyek Sistem Informasi 22	| |	2
 AIFXXX	|MK Pilihan	| |	12
 | | |TOTAL	|18
 
-Semester 8
+##### Semester 8
 
 KODE	| NAMA	| APR	| SKS
 --------|-------|-------|-------
@@ -708,7 +696,7 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
   *	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+#### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
 KODE	|NAMA|	APR	|SKS
 ------|----|------|----
@@ -794,10 +782,10 @@ KODE	|NAMA|	APR	|SKS
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
-##### 2.7.3Peta dan Prasyarat Matakuliah 
+#### 2.7.3 Peta dan Prasyarat Matakuliah 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
-##### 2.7.4 Deskripsi Matakuliah
+#### 2.7.4 Deskripsi Matakuliah
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH
 --------|-----------------------------
 AIF101	| PEMROGRAMAN BERORIENTASI OBJEK/ OBJECT-ORIENTED PROGRAMMING
@@ -811,7 +799,7 @@ AIF104	| LOGIKA INFORMATIKA / LOGICS FOR INFORMATICS
 AIF105	| PENGANTAR INFORMATIKA/ INTRODUCTION TO INFORMATICS
 	    | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.
 		
-##### Gambar 3. Peta dan Prasyarat Matakuliah
+#### Gambar 3. Peta dan Prasyarat Matakuliah
 Deskripsi matakuliah
 
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH
