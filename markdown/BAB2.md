@@ -9,7 +9,7 @@ Selain matakuliah-matakuliah di atas, dikenal juga apa yang disebut dengan **mat
 Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan matakuliah yang ditujukan untuk program studi lain. Matakuliah ini disebut dengan **matakuliah layanan**.
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**.
 
-### 2.1 Matakuliah Pilihan
+### 2.1 Mata Kuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
 
@@ -25,7 +25,7 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
 2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-### 2.2 Matakuliah Prasyarat
+### 2.2 Mata Kuliah Prasyarat
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
@@ -35,7 +35,7 @@ Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa seb
 
 3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
-### 2.3 Matakuliah Layanan
+### 2.3 Mata Kuliah Layanan
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
