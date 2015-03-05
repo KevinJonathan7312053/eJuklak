@@ -1,12 +1,12 @@
-##3.4 Cuti dan Gencat Studi  
+###3.4 Cuti dan Gencat Studi  
 (berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)  
 
-###3.4.1 Persyaratan cuti studi  
+####3.4.1 Persyaratan cuti studi  
 1.	Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.  
 2.	Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.  
 3.	Cuti studi dapat diberikan kepada mahasiswa yang telah mengikuti program pendidikan di jurusan terkait **sekurang-kurangnya 2 (dua) semester berturut-turut.**  
 
-###3.4.2 Prosedur Cuti Studi  
+####3.4.2 Prosedur Cuti Studi  
 1.	Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ***rekomendasi dosen wali*** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.  
 2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah financial, atau (c) masalah pribadi lainnya.  
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).  
@@ -39,7 +39,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
   3.	Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.  
   
 
-##3.5 Pengunduran Diri Sebagai Mahasiswa  
+###3.5 Pengunduran Diri Sebagai Mahasiswa  
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :  
   1.  Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.  
   2.  Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.  
