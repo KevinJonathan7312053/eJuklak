@@ -80,9 +80,9 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | AKS144    | Pemrograman Komputer         |   3   | Matematika            |
 
 ### 2.4 Mata Kuliah Umum
-Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
+Mata Kuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
-#### 2.4.1 Susunan Matakuliah Umum
+#### 2.4.1 Susunan Mata Kuliah Umum
 
 | Kode      | Mata Kuliah                  | SKS   |
 | --------- | :--------------------------: | :---: | 
@@ -96,7 +96,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU011    | Estetika                     |   2   | 
 | MKU012    | Logika                       |   2   | 
 
-#### 2.4.2 Uraian Singkat Matakuliah Umum
+#### 2.4.2 Uraian Singkat Mata Kuliah Umum
 | NAMA MK  PRASYARAT       | NAMA MATA KULIAH  DESKRIPSI MATAKULIAH                                | 
 | ------------- | :-----------------------------------------------: | 
 | MKU001        | PENDIDIKAN PANCASILA / PANCASILA EDUCATION        | 
