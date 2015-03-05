@@ -33,7 +33,7 @@ d. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester ter
 e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
 
 |     IPS     | Hak Tempuh pada Semester Berikutnya |
-| ----------- | ----------------------------------: |
+| ----------- | :---------------------------------: |
 |   >= 3,00   | Maksimum 24 SKS                     |
 | 2,50 - 2,99 | Maksimum 21 SKS                     |
 |   <= 2,49   | Maksimum 18 SKS                     |  
