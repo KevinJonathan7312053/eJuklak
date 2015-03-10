@@ -131,8 +131,9 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS151    | Statistika Elementer         |       |   4   |
 | AMS181    | Fisika Dasar                 |  R,P  |   4   |
 | MKU012    | Logika                       |   R   |   2   |
-| MKU010    | Bahasa Inggris               |       |   2   |  
-|           |                            |  Total  |  19  |  
+| MKU010    | Bahasa Inggris               |       |   2   |
+|	    |				   |Total  |19 SKS | 
+
 
 **SEMESTER 2**  
 
@@ -145,7 +146,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU011    | Estetika                     |       |   2   |
 | MKU003    | Agama Katolik +              |       |   2   |
 | MKU004    | Fenomologi Agama +           |       |   2   |
-Total: 19 SKS  
+|           |                              |Total  | 19 SKS|  
 
 
 **SEMESTER 3**  
@@ -158,7 +159,7 @@ Total: 19 SKS
 | AMS253    | Komputasi Statistika         |       |   2   |
 | AMS271    | Metoda Matematika            |       |   3   |
 | MKU008    | Etika                        |   R   |   2   |
-Total: 18 SKS
+|           |                              |Total  | 18 SKS| 
 
 
 **SEMESTER 4**  
@@ -170,7 +171,7 @@ Total: 18 SKS
 | AMS261    | Optimasi                     |       |   4   |
 | AMS272    | Persamaan Diferensial Biasa  |       |   4   |
 | AMS273    | Komputasi Matematika         |       |   2   |
-Total: 18 SKS  
+|           |                              |Total  | 18 SKS| 
 
 
 **SEMESTER 5**  
@@ -182,7 +183,7 @@ Total: 18 SKS
 | AMS373    | Metoda Numerik               |       |   3   |
 | MKU002    | Pendidikan Kewarganegaraan   |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   6   |
-Total: 19 SKS  
+|           |                              |Total  | 19 SKS| 
 
 
 **SEMESTER 6**  
@@ -192,7 +193,7 @@ Total: 19 SKS
 | AMS322    | Analisis Real                |   R   |   4   |
 | MKU009    | Bahasa Indonesia             |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   12  |
-Total: 18 SKS  
+|           |                              |Total  | 18 SKS| 
 
 
 **SEMESTER 7**  
@@ -203,7 +204,7 @@ Total: 18 SKS
 | AMS491    | Pemodelan Matematika         |       |   4   |
 | MKU001    | Pancasila                    |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   9   |
-Total: 18 SKS  
+|           |                              |Total  | 18 SKS| 
 
 
 **SEMESTER 8**  
@@ -212,7 +213,7 @@ Total: 18 SKS
 | --------- | :--------------------------: | :---: | ----: |
 | AMS499    | Skripsi                      |       |   6   |
 | ABCXYZ    | Pilihan                      |       |   9   |
-Total: 15 SKS
+|           |                              |Total  | 18 SKS| 
 
 
 #### 2.5.2 Mata Kuliah Pilihan Progam Studi Matematika
@@ -368,7 +369,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  AIF111  |  Pemrograman Komputer  |  P  |  3  |  
 |  ICE109  |  Kimia Dasar  |    |  2  |  
 |  MKU011  |  Estetika  |    |  2  |  
-|      |    |  Total  |  19  |  
+|      |    |  **Total**  |  **19**  |  
 
 **Semester 2**
 
@@ -380,7 +381,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS124  |  Fisika Modern  |  |  3  |  
 |  APS132  |  Fisika Komputasi  |  P  |  3  |  
 |  MKU012  |  Logika  |    |  2  |    
-|    |    |  Total  |  19  |  
+|    |    |  **Total**  |  **19**  |  
 
 **Semester 3**
 
@@ -392,7 +393,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS225  |  Lab. Fisika Modern  |  P  |  3  |  
 |  APS233  |  Elektronika I  |  P  |  3  |  
 |  MKU003/MKU004  |  Agama Katolik/Fenomenologi Agama  |    |  2  |    
-|    |    |  Total  |  18  |  
+|    |    |  **Total**  |  **18**  |  
 
 **Semester 4**
 
@@ -404,7 +405,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS222  |  Listrik Magnet  |  R  |  4  |  
 |  APS234  |  Elektronika 2  |  P  |  3  |  
 |  MKU010  |  Bahasa Inggris  |    |  2  |    
-|    |    |  Total  |  18  |  
+|    |    |  **Total**  |  **18**  |  
 
 **Semester 5**
 
@@ -416,7 +417,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS341  |  Pengantar Fisika Nuklir  |     |  3  |  
 |  MKU008  |  Etika  |     |  2  |  
 |          |  Mata Kuliah Pilihan  |    |  3  |    
-|    |    |  Total  |  18  |  
+|    |    |  **Total**  |  **18**  |  
 
 **Semester 6**
 
@@ -429,7 +430,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS392  |  Seminar  |    |  2  |  
 |  MKU009  |  Bahasa Indonesia  |    |  2  |  
 |      |  Mata Kuliah Pilihan  |    |  3  |  
-|      |    |  Total  |  19  |  
+|      |    |  **Total**  |  **19**  |  
 
 **Semester 7**
 
@@ -439,7 +440,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  MKU001  |  Pancasila  |    |  2  |  
 |  MKU002  |  Kewarganegaraan  |    |  2  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
-|      |    |  Total  |  17  |  
+|      |    |  **Total**  |  **17**  |  
 
 **Semester 8**
 
@@ -449,7 +450,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS498  |  Tugas AKhir 2  |    |  4  |  
 |  SAB315  |  Kewirausahaan  |    |  3  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
-|      |    |  Total  |  18  |  
+|      |    |  **Total**  |  **18**  
 
 Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
 
