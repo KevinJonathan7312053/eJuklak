@@ -663,7 +663,7 @@ AIF106	|Sistem Dijital| |		3
 AMS100	|Matematika Informatika	| |	4
 MKU009	|Bahasa Indonesia| |		2
 MKU011	|Estetika| |		2
-| |  TOTAL	|18
+        |        |  TOTAL	|18
 
 Semester 3
 
@@ -675,7 +675,7 @@ AIF205	|Arsitektur dan Organisasi Komputer	| |	3
 AMS200	|Probabilitas dan Statistika	| |	3
 MKU003 / MKU004|	Agama Katolik /	Fenomenologi Agama| |	2	
 MKU012	|Logika	| |	2
-| | TOTAL	|18
+        | | TOTAL	|18
 
 Semester 4
 
@@ -686,7 +686,7 @@ AIF204	|Manajemen Informasi dan Basisdata| |		4
 AIF206	|Sistem Operasi	| |	4
 AIF208	|Rekayasa Perangkat Lunak| |		4			
 AIF210	|Interaksi Manusia Komputer	| |	2			
-| | TOTAL	|18
+        | | TOTAL	|18
 
 Semester 5
 
@@ -701,7 +701,7 @@ AIF315	|Pemrograman Berbasis Web1| 	R	|2
 AIF317	|Desain Antarmuka Grafis1| 	R	|2
 AIFXXX	|MK Pilihan	| |	2
 MKU002	|Kewarganegaraan| |		2
-| | TOTAL	|18
+        | | TOTAL	|18
 
 Semester 6
 
@@ -715,7 +715,7 @@ AIF314	|Pemrograman Basisdata1|	R	|2
 AIF316	|Komputasi Paralel 1|	R|	2		
 AIF318	|Pemrograman Aplikasi Bergerak1	|R|	2			
 AIFXXX	|MK Pilihan	| |	6
-| | TOTAL	|18
+        | | TOTAL	|18
 
 Semester 7
 
@@ -725,7 +725,7 @@ AIF401	|Skripsi 1	| |	4
 AIF403	|Komputer dan Masyarakat	| |	3
 AIF405	|Proyek Sistem Informasi 22	| |	2
 AIFXXX	|MK Pilihan	| |	12
-| | TOTAL	|18
+        | | TOTAL	|18
 
 Semester 8
 
@@ -734,7 +734,7 @@ KODE	| NAMA	| APR	| SKS
 AIF402	|Skripsi 2	| |	6
 AIFXXX	|MK Pilihan		| |10
 APS402	|Etika Profesi	| |	2			
-| |TOTAL	|18
+        | |TOTAL	|18
 
 Keterangan :
 
