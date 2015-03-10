@@ -132,7 +132,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS181    | Fisika Dasar                 |  R,P  |   4   |
 | MKU012    | Logika                       |   R   |   2   |
 | MKU010    | Bahasa Inggris               |       |   2   |
-|	    |				   |Total  |19 SKS | 
+|	    |				   |Total  |   19  | 
 
 
 **SEMESTER 2**  
@@ -146,7 +146,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU011    | Estetika                     |       |   2   |
 | MKU003    | Agama Katolik +              |       |   2   |
 | MKU004    | Fenomologi Agama +           |       |   2   |
-|           |                              |Total  | 19 SKS|  
+|           |                              |Total  |   19  |  
 
 
 **SEMESTER 3**  
@@ -159,7 +159,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS253    | Komputasi Statistika         |       |   2   |
 | AMS271    | Metoda Matematika            |       |   3   |
 | MKU008    | Etika                        |   R   |   2   |
-|           |                              |Total  | 18 SKS| 
+|           |                              |Total  |  18   | 
 
 
 **SEMESTER 4**  
@@ -171,7 +171,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS261    | Optimasi                     |       |   4   |
 | AMS272    | Persamaan Diferensial Biasa  |       |   4   |
 | AMS273    | Komputasi Matematika         |       |   2   |
-|           |                              |Total  | 18 SKS| 
+|           |                              |Total  | 18    | 
 
 
 **SEMESTER 5**  
@@ -183,7 +183,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS373    | Metoda Numerik               |       |   3   |
 | MKU002    | Pendidikan Kewarganegaraan   |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   6   |
-|           |                              |Total  | 19 SKS| 
+|           |                              |Total  | 19    | 
 
 
 **SEMESTER 6**  
@@ -193,7 +193,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS322    | Analisis Real                |   R   |   4   |
 | MKU009    | Bahasa Indonesia             |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   12  |
-|           |                              |Total  | 18 SKS| 
+|           |                              |Total  | 18    | 
 
 
 **SEMESTER 7**  
@@ -204,7 +204,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | AMS491    | Pemodelan Matematika         |       |   4   |
 | MKU001    | Pancasila                    |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   9   |
-|           |                              |Total  | 18 SKS| 
+|           |                              |Total  | 18    | 
 
 
 **SEMESTER 8**  
@@ -213,7 +213,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | --------- | :--------------------------: | :---: | ----: |
 | AMS499    | Skripsi                      |       |   6   |
 | ABCXYZ    | Pilihan                      |       |   9   |
-|           |                              |Total  | 18 SKS| 
+|           |                              |Total  | 18    | 
 
 
 #### 2.5.2 Mata Kuliah Pilihan Progam Studi Matematika
