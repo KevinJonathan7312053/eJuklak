@@ -572,7 +572,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | ICE109    | Kimia Dasar / *Chemistry*|
 | -         | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
 
-![](images/unpar.png)
+![](images/2.6.4.jpg)
 Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK   | NAMA & DESKRIPSI MATA KULIAH              |
