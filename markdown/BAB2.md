@@ -759,7 +759,7 @@ Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuan
 2.	Skor Coding
 Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.  
 3.	Nilai minimum kuliah jalur pemrograman/algoritma
-Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
   1.  Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek  
   2.  Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem.Pendek  
   3.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek  
