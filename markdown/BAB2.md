@@ -644,14 +644,14 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 Semester 1
 
 KODE	| NAMA	| APR	| SKS
-:--------:|-------|:-------:|:-------:
+:------:|-------|:-------:|:-------:
 AIF101	| Pemrograman Berorientasi Objek | | 6			
 AIF103	| Matematika Diskret | | 3
 AIF105	| Pengantar Informatika | | 3
 MKU001	| Pendidikan Pancasila | | 2
 MKU008	| Etika	| | 2
 MKU010	| Bahasa Inggris | | 2
-| |  TOTAL	| 18
+        |                |  TOTAL	| 18
 
 Semester 2
 
