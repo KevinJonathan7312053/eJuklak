@@ -868,6 +868,9 @@ AIF104	| LOGIKA INFORMATIKA / LOGICS FOR INFORMATICS
 AIF105	| PENGANTAR INFORMATIKA/ INTRODUCTION TO INFORMATICS
 | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
 
+![](images/2.7.4.jpg)  
+
+
 ##### Gambar 3. Peta dan Prasyarat Matakuliah  
 
 Deskripsi matakuliah
