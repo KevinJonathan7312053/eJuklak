@@ -641,9 +641,9 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 ### 2.7 Kurikulum Program Studi Teknik Informatika
 ##### 2.7.1 Sususan matakuliah
 
-Semester 1
+**Semester 1**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :------:|-------|:-------:|:-------:
 AIF101	| Pemrograman Berorientasi Objek | | 6			
 AIF103	| Matematika Diskret | | 3
@@ -651,11 +651,11 @@ AIF105	| Pengantar Informatika | | 3
 MKU001	| Pendidikan Pancasila | | 2
 MKU008	| Etika	| | 2
 MKU010	| Bahasa Inggris | | 2
-        |                |  TOTAL	| 18
+        |                |  TOTAL	| 18  
+        
+**Semester 2**
 
-Semester 2
-
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF102	|Algoritma dan Struktur Data| |		4
 AIF104	|Logika Informatika| |		3
@@ -665,9 +665,9 @@ MKU009	|Bahasa Indonesia| |		2
 MKU011	|Estetika| |		2
         |        |  TOTAL	|18
 
-Semester 3
+**Semester 3**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF201	|Analisis dan Desain Berorientasi Objek| |		4			
 AIF203	|Struktur Diskret| |		4
@@ -677,9 +677,9 @@ MKU003 / MKU004|	Agama Katolik /	Fenomenologi Agama| |	2
 MKU012	|Logika	| |	2
         | | TOTAL	|18
 
-Semester 4
+**Semester 4**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF202	|Desain dan Analisis Algoritma| |		4
 AIF204	|Manajemen Informasi dan Basisdata| |		4
@@ -688,9 +688,9 @@ AIF208	|Rekayasa Perangkat Lunak| |		4
 AIF210	|Interaksi Manusia Komputer	| |	2			
         | | TOTAL	|18
 
-Semester 5
+**Semester 5**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF301	|Pengantar Sistem Cerdas| |		3
 AIF303	|Pengantar Sistem Informasi	| |	3			
@@ -703,9 +703,9 @@ AIFXXX	|MK Pilihan	| |	2
 MKU002	|Kewarganegaraan| |		2
         | | TOTAL	|18
 
-Semester 6
+**Semester 6**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF302	|Penulisan Ilmiah| |		2
 AIF304	|Proyek Sistem Informasi 12	| |	3			
@@ -717,9 +717,9 @@ AIF318	|Pemrograman Aplikasi Bergerak1	|R|	2
 AIFXXX	|MK Pilihan	| |	6
         | | TOTAL	|18
 
-Semester 7
+**Semester 7**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF401	|Skripsi 1	| |	4
 AIF403	|Komputer dan Masyarakat	| |	3
@@ -727,9 +727,9 @@ AIF405	|Proyek Sistem Informasi 22	| |	2
 AIFXXX	|MK Pilihan	| |	12
         | | TOTAL	|18
 
-Semester 8
+**Semester 8**
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF402	|Skripsi 2	| |	6
 AIFXXX	|MK Pilihan		| |10
@@ -761,7 +761,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 
 ##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF330	|Kerja Praktek 1		||2
 AIF331	|Topik Khusus Informatika 1		||2
@@ -773,7 +773,7 @@ AIF337	|Matematika Teknik		||3
 AIF338	|Bioinformatika		||3
 
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF347	|e-Commerce		||2
 AIF348	|Verifikasi Formal		||3
@@ -800,14 +800,14 @@ AIF441	|Administrasi Jaringan Komputer 3		||3
 AIF442	|Administrasi Jaringan Komputer 4		||3  
 
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF465	|Teknologi Middleware		
 AIF466	|Sistem Terdistribusi		
 AIF468	|Teknologi Multimedia  
 
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF339	|Pemodelan Formal		||3
 AIF340	|Komputasi Geometri		||3
@@ -819,7 +819,7 @@ AIF345	|Pengujian Perangkat Lunak		||2
 AIF346	|Perancangan Permainan Komputer		||3  
 
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF443	|Matematika Kombinatorial		||3
 AIF444	|Pemrograman Permainan Komputer		||3		
@@ -845,7 +845,7 @@ AIF463	|Jaringan Nirkabel		||
 AIF464	|Sistem Perusahaan Berskala Besar	||  
 
 
-KODE	| NAMA	| APR	| SKS
+**KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
