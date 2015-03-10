@@ -369,7 +369,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  AIF111  |  Pemrograman Komputer  |  P  |  3  |  
 |  ICE109  |  Kimia Dasar  |    |  2  |  
 |  MKU011  |  Estetika  |    |  2  |  
-|      |    |  **Total**  |  **19**  |  
+|      |    |  Total  |  19  |  
 
 **Semester 2**
 
@@ -381,7 +381,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS124  |  Fisika Modern  |  |  3  |  
 |  APS132  |  Fisika Komputasi  |  P  |  3  |  
 |  MKU012  |  Logika  |    |  2  |    
-|    |    |  **Total**  |  **19**  |  
+|    |    |  Total  |  19  |  
 
 **Semester 3**
 
@@ -393,7 +393,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS225  |  Lab. Fisika Modern  |  P  |  3  |  
 |  APS233  |  Elektronika I  |  P  |  3  |  
 |  MKU003/MKU004  |  Agama Katolik/Fenomenologi Agama  |    |  2  |    
-|    |    |  **Total**  |  **18**  |  
+|    |    |  Total  |  18  |  
 
 **Semester 4**
 
@@ -405,7 +405,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS222  |  Listrik Magnet  |  R  |  4  |  
 |  APS234  |  Elektronika 2  |  P  |  3  |  
 |  MKU010  |  Bahasa Inggris  |    |  2  |    
-|    |    |  **Total**  |  **18**  |  
+|    |    |  Total  |  18  |  
 
 **Semester 5**
 
@@ -417,7 +417,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS341  |  Pengantar Fisika Nuklir  |     |  3  |  
 |  MKU008  |  Etika  |     |  2  |  
 |          |  Mata Kuliah Pilihan  |    |  3  |    
-|    |    |  **Total**  |  **18**  |  
+|    |    |  Total  |  18  |  
 
 **Semester 6**
 
@@ -430,7 +430,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS392  |  Seminar  |    |  2  |  
 |  MKU009  |  Bahasa Indonesia  |    |  2  |  
 |      |  Mata Kuliah Pilihan  |    |  3  |  
-|      |    |  **Total**  |  **19**  |  
+|      |    |  Total  |  19  |  
 
 **Semester 7**
 
@@ -440,7 +440,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  MKU001  |  Pancasila  |    |  2  |  
 |  MKU002  |  Kewarganegaraan  |    |  2  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
-|      |    |  **Total**  |  **17**  |  
+|      |    |  Total  |  17  |  
 
 **Semester 8**
 
@@ -450,7 +450,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS498  |  Tugas AKhir 2  |    |  4  |  
 |  SAB315  |  Kewirausahaan  |    |  3  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
-|      |    |  **Total**  |  **18**  
+|      |    |  Total  |  18  
 
 Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
 
