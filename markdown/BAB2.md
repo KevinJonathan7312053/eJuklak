@@ -369,8 +369,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  AIF111  |  Pemrograman Komputer  |  P  |  3  |  
 |  ICE109  |  Kimia Dasar  |    |  2  |  
 |  MKU011  |  Estetika  |    |  2  |  
-|      |    |  **Total**  |  **19**  |
-    
+|      |    |  **Total**  |  **19**  |  
+
 **Semester 2**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -382,7 +382,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS132  |  Fisika Komputasi  |  P  |  3  |  
 |  MKU012  |  Logika  |    |  2  |    
 |    |    |  **Total**  |  **19**  |  
-  
+
 **Semester 3**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -394,7 +394,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS233  |  Elektronika I  |  P  |  3  |  
 |  MKU003/MKU004  |  Agama Katolik/Fenomenologi Agama  |    |  2  |    
 |    |    |  **Total**  |  **18**  |  
-  
+
 **Semester 4**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -406,7 +406,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  APS234  |  Elektronika 2  |  P  |  3  |  
 |  MKU010  |  Bahasa Inggris  |    |  2  |    
 |    |    |  **Total**  |  **18**  |  
-  
+
 **Semester 5**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -418,7 +418,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  MKU008  |  Etika  |     |  2  |  
 |          |  Mata Kuliah Pilihan  |    |  3  |    
 |    |    |  **Total**  |  **18**  |  
-  
+
 **Semester 6**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -431,7 +431,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  MKU009  |  Bahasa Indonesia  |    |  2  |  
 |      |  Mata Kuliah Pilihan  |    |  3  |  
 |      |    |  **Total**  |  **19**  |  
-    
+
 **Semester 7**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -441,7 +441,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  MKU002  |  Kewarganegaraan  |    |  2  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
 |      |    |  **Total**  |  **17**  |  
-    
+
 **Semester 8**
 
 |  KODE   |  Nama  |  APR  |  SKS  |  
@@ -451,7 +451,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |  SAB315  |  Kewirausahaan  |    |  3  |  
 |    |  Mata Kuliah Pilihan  |    |  9  |  
 |      |    |  **Total**  |  **18**  
-    
+
 Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
 
 No    |  Kelompok Mata kuliah  
