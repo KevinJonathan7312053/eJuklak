@@ -658,7 +658,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 
 |  **KODE**	| **NAMA**	| **APR**	| **SKS**  |
-|  :--------:|-------|:-------:|:-------:  |  |
+|  :--------:  |-------|:-------:|:-------:  |  
 |  AIF102	|Algoritma dan Struktur Data| |  4  |
 |  AIF104	|Logika Informatika| |		3  |
 |  AIF106	|Sistem Dijital| |		3  |
@@ -760,10 +760,10 @@ Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuan
 Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.  
 3.	Nilai minimum kuliah jalur pemrograman/algoritma
 Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-  *	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-  *	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem.Pendek
-  *	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-  *	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+  1.  Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek  
+  2.  Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem.Pendek  
+  3.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek  
+  4.  Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
