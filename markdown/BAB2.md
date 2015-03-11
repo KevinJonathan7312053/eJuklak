@@ -757,14 +757,10 @@ Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk
 
 3. Nilai minimum kuliah jalur pemrograman/algoritma
 Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-
-  * Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-
-  * Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem.Pendek
-
-  * Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-
-  * Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+    * Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    * Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem.Pendek
+    * Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    * Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
   
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
