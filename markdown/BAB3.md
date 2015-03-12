@@ -16,13 +16,13 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 
 Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti pada semester yang bersangkutan.  
 
-Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut: 
+Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:  
 
-a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-b. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
-c. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
-d. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
+1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
+2. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.  
+3. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
+4. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
 
 |     IPS     | Hak Tempuh pada Semester Berikutnya |
 | ----------- | :---------------------------------: |
@@ -66,10 +66,10 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
 
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
 
-1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:  
-  * membaca bahan yang diperkirakan akan dibahas dosen,  
+1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
+  * membaca bahan yang diperkirakan akan dibahas dosen,
   * menanyakan segala **hal** yang belum jelas kepada dosen,
-  * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
+  * meminta saran dosen tentang cara belajar dan berlatih yang baik.
   * **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.  
 
 2. **Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.  
@@ -107,6 +107,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. 
 Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. 
 Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.  
+
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:
 
 1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan  
