@@ -34,7 +34,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 #### 2.3.1 Kuliah Layanan Progam Studi Matematika
 
 | Kode      | Mata Kuliah                  | SKS   | Prodi yang dilayani   |
-| --------- | :--------------------------: | :---: | --------------------: |
+| --------- | :-------------------------- | :---: | :-------------------- |
 | AMS100    | Matematika Informatika       |   4   | Teknik Informatika    |
 | AMS200    | Probabilitas dan Statistika  |   3   | Teknik Informatika    |
 | AMS107    | Fisika Matematika 1          |   4   | Fisika                |
@@ -53,7 +53,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 #### 2.3.2 Kuliah Layanan Progam Studi Fisika
 
 | Kode      | Mata Kuliah                  | SKS   | Prodi yang dilayani   |
-| --------- | :--------------------------: | :---: | --------------------: |
+| --------- | :-------------------------- | :---: | :-------------------- |
 | APS 181   | Fisika Dasar                 |   4   | Matematika            |
 | APS 182   | Fisika Dasar                 |   3   | Teknik Sipil          |
 | APS 183   | Fisika Dasar 1               |   2   | Teknik Industri       |
@@ -68,7 +68,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 #### 2.3.3 Kuliah Layanan Progam Studi Teknik Informatika
 
 | Kode      | Mata Kuliah                  | SKS   | Prodi yang dilayani   |
-| --------- | :--------------------------: | :---: | --------------------: |
+| --------- | :-------------------------- | :---: | :-------------------- |
 | AKS144    | Pemrograman Komputer         |   3   | Matematika            |
 
 ### 2.4 Mata Kuliah Umum
@@ -77,7 +77,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 #### 2.4.1 Susunan Matakuliah Umum
 
 | Kode      | Mata Kuliah                  | SKS   |
-| --------- | :--------------------------: | :---: | 
+| --------- | :-------------------------- | :---: | 
 | MKU001    | Pendidikan Pancasila         |   2   | 
 | MKU002    | Pendidikan Kewarganegaraan   |   2   | 
 | MKU003    | Agama Katolik                |   2   | 
@@ -117,7 +117,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 1**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS121    | Kalkulus 1                   |   R   |   4   |
 | AMS123    | Pemecahan Masalah Matematika |       |   3   |
 | AMS151    | Statistika Elementer         |       |   4   |
@@ -130,7 +130,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 2**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS122    | Kalkulus 2                   |       |   4   |
 | AMS123    | Matematika Diskret           |       |   4   |
 | AMS126    | Aljabar Matriks              |       |   4   |
@@ -144,7 +144,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 3**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS221    | Kalkulus Vektor              |   R   |   4   |
 | AMS231    | Teori Suku Bunga             |       |   3   |
 | AMS251    | Teori Peluang                |       |   4   |
@@ -157,7 +157,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 4**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | ----: |
 | AMS222    | Aljabar Linear               |   R   |   4   |
 | AMS252    | Statistika Matematika        |       |   4   |
 | AMS261    | Optimasi                     |       |   4   |
@@ -169,7 +169,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 5**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS321    | Fungsi Kompleks              |       |   4   |
 | AMS351    | Proses Stokastik             |       |   4   |
 | AMS373    | Metoda Numerik               |       |   3   |
@@ -202,7 +202,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 8**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS499    | Skripsi                      |       |   6   |
 | ABCXYZ    | Pilihan                      |       |   9   |
 |           |                              |Total  | 18    | 
@@ -217,7 +217,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Matematika Asusransi
 
 | Kode      | Nama                              |  SKS  |
-| --------- | :-------------------------------: | ----: |
+| --------- | :------------------------------- | :----: |
 | AMS330    | Pengantar Matematika Asuransi     |   3   |
 | AMS331    | Matematika Asuransi               |   3   |
 | AMS431    | Metoda Statistika Asuransi        |   3   |
@@ -227,7 +227,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Matematika Keuangan
 
 | Kode      | Nama                              |  SKS  |
-| --------- | :-------------------------------: | ----: |
+| --------- | :------------------------------- | :----: |
 | AMS341    | Komputasi Keuangan                |   3   |
 | AMS342    | Matematika Keuangan               |   3   |
 | AMS343    | Analisis Deret Waktu              |   3   |
@@ -240,7 +240,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Optimasi dan Teori Kontrol
 
 | Kode      | Nama                              |  SKS  |
-| --------- | :-------------------------------: | ----: |
+| --------- | :------------------------------- | :----: |
 | AMS361    | Pemrograman NonLinear             |   3   |
 | AMS461    | Kontrol Optimum                   |   3   |
 | AMS462    | Kontrol Linear                    |   3   |
@@ -248,7 +248,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Statistika & Penelitian Operasional
 
 | Kode      | Nama                                 |  SKS  |
-| --------- | :----------------------------------: | ----: |
+| --------- | :---------------------------------- | :----: |
 | AMS352    | Pemrograman Stokastik                |   3   |
 | AMS353    | Pengendalian Mutu                    |   3   |
 | AMS354    | Model  Statistika                    |   3   |
@@ -265,7 +265,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Matematika Terapan
 
 | Kode      | Nama                                 |  SKS  |
-| --------- | :----------------------------------: | ----: |
+| --------- | :---------------------------------- | :----: |
 | AMS471    | Sistem Dinamik                       |   3   |
 | AMS472    | Matematika Biologi                   |   3   |
 | AMS371    | Persamaan Diferensial Parsial        |   3   |
@@ -276,7 +276,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 ##### Lain-lain
 
 | Kode      | Nama                                  |  SKS  |
-| --------- | :------------------------------------:| ----: |
+| --------- | :------------------------------------| :----: |
 | AMS323    | Geometri                              |   3   |
 | AMS324    | Teori Bilangan                        |   3   |
 | AMS344    | Komputasi Saintifik                   |   3   |
