@@ -443,7 +443,7 @@ No    |  Kelompok Mata kuliah
 ##### Lain-lain 
 
 | Kode      | Nama                                 |  SKS  |
-| --------- | :---------------------------------- | ----: |
+| --------- | :---------------------------------- | :----: |
 | APS301    | Filsafat Sains                       |   2   |
 | APS302    | Dunia Digital dan Sains              |   2   |
 | APS303    | Didaktika Umum                       |   3   |
@@ -451,7 +451,7 @@ No    |  Kelompok Mata kuliah
 ##### Kelompok Fisika Teoretik
 
 | Kode      | Nama                                 |  SKS  |
-| --------- | :--------------------------------- | ----: |
+| --------- | :--------------------------------- | :----: |
 | APS311    | Dinamika Fluida                      |   3   |
 | APS411    | Mekanika Hamiltonian                 |   3   |
 | APS317    | Fisika Matematika Lanjut             |   3   |
@@ -466,7 +466,7 @@ No    |  Kelompok Mata kuliah
 ##### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
 
 | Kode      | Nama                                   |  SKS  |
-| --------- | :------------------------------------ | ----: |
+| --------- | :------------------------------------ | :----: |
 | APS331    | Pemodelan Matematika Gejala Alam       |   3   |
 | APS332    | KapSel. Fisika komputasi               |   3   |
 | APS336    | Instrumentasi Berbasis Komputer        |   3   |
@@ -476,7 +476,7 @@ No    |  Kelompok Mata kuliah
 ##### Kelompok Biofisika
 
 | Kode      | Nama                                    |  SKS  |
-| --------- | :--------------------------------------| ----: |
+| --------- | :--------------------------------------| :----: |
 | APS350    | Fisika Instrumentasi Medis              |   3   |
 | APS351    | Biofisika                               |   3   |
 | APS352    | Fisika Kedokteran                       |   3   |
@@ -486,7 +486,7 @@ No    |  Kelompok Mata kuliah
 ##### Kelompok Fisika Material dan Optika
 
 | Kode      | Nama                                    |  SKS  |
-| --------- | :--------------------------------------| ----: |
+| --------- | :--------------------------------------| :----: |
 | APS343    | Struktur Materi                         |   3   |
 | APS441    | Reologi                                 |   3   |
 | APS442    | Fisika Polimer                          |   3   |
@@ -501,7 +501,7 @@ No    |  Kelompok Mata kuliah
 ##### Kelompok Fisika Bumi
 
 | Kode      | Nama                                    |  SKS  |
-| --------- | :--------------------------------------| ----: |
+| --------- | :--------------------------------------| :----: |
 | APS361    | Geofisika                               |   3   |
 | APS362    | Oseanografi Fisis                       |   3   |
 | APS363    | Pemanasan Global                        |   3   |
@@ -542,7 +542,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK   | NAMA & DESKRIPSI MATA KULIAH| PRASYARAT|
-| --------- | :----------------------------------------|:-----------|
+| --------- | :----------------------------------------|:-----------:|
 | APS105    | **FISIKA DASAR 1/** ***PHYSICS 1*** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.  Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|-|
 | APS106    | **FISIKA DASAR 2/** ***PHYSICS 2*** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.  Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.| APS105    | 
 | APS107    | **Fisika Matematika 1/** ***Mathematical Physics 1*** Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.|-|
