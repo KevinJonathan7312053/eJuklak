@@ -543,8 +543,8 @@ No    |  Kelompok Mata kuliah
 | APS479    | Kapita Selekta Astrofisika              |   3   |
 
 Komposisi Kuliah wajib dan pilihan adalah 
-*	Kuliah Wajib = 120 sks 
-*	Kuliah Pilihan = 24 sks 
+•	Kuliah Wajib = 120 sks 
+•	Kuliah Pilihan = 24 sks 
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran  *soft-skills*  berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
@@ -855,7 +855,7 @@ AIF464	|Sistem Perusahaan Berskala Besar	||
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
-##### 2.7.3 Peta dan Prasyarat Matakuliah 
+##### 2.7.3Peta dan Prasyarat Matakuliah 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
 ##### 2.7.4 Deskripsi Matakuliah  
@@ -875,46 +875,43 @@ AIF105	| PENGANTAR INFORMATIKA/ INTRODUCTION TO INFORMATICS
 
 ![](images/2.7.4.jpg)  
 
-
-##### Gambar 3. Peta dan Prasyarat Matakuliah  
-
-Deskripsi matakuliah
+Gambar 3. Peta dan Prasyarat Matakuliah Deskripsi matakuliah  
 
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH
 --------|-----------------------------
-AIF106	| SISTEM DIJITAL / DIGITAL SYSTEMS
+AIF106	| SISTEM DIJITAL / DIGITAL SYSTEMS  
   | Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.
-AIF201	| ANALISIS & DESAIN BERORIENTASI OBJEK / OBJECT-ORIENTED ANALYSIS & DESIGN
+AIF201	| ANALISIS & DESAIN BERORIENTASI OBJEK / OBJECT-ORIENTED ANALYSIS & DESIGN  
   | Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.
-AIF202	| DESAIN & ANALISIS ALGORITMA / DESIGN & ANALYSIS OF ALGORITHMS
+AIF202	| DESAIN & ANALISIS ALGORITMA / DESIGN & ANALYSIS OF ALGORITHMS  
   | Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.
-AIF203	| STRUKTUR DISKRIT / DISCRETE STRUCTURES
+AIF203	| STRUKTUR DISKRIT / DISCRETE STRUCTURES  
   | Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.
-AIF205	| ARSITEKTUR & ORGANISASI KOMPUTER / COMPUTER ARCHITECTURES & ORGANISATION
+AIF205	| ARSITEKTUR & ORGANISASI KOMPUTER / COMPUTER ARCHITECTURES & ORGANISATION  
   | Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern
-AIF206	| SISTEM OPERASI / OPERATING SYSTEMS
+AIF206	| SISTEM OPERASI / OPERATING SYSTEMS  
   | Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum
-AIF208	| REKAYASA PERANGKAT LUNAK / REKAYASA PERANGKAT LUNAK
+AIF208	| REKAYASA PERANGKAT LUNAK / REKAYASA PERANGKAT LUNAK  
   | Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management
-AIF210	| INTERAKSI MANUSIA KOMPUTER / HUMAN-COMPUTER INTERACTION
+AIF210	| INTERAKSI MANUSIA KOMPUTER / HUMAN-COMPUTER INTERACTION  
   | Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).
-AIF294	| MANAJEMEN INFORMASI & BASIS DATA / INFORMATION MANAGEMENT & DATABASES
+AIF294	| MANAJEMEN INFORMASI & BASIS DATA / INFORMATION MANAGEMENT & DATABASES  
   | Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.
-AIF301	| PENGANTAR SISTEM CERDAS / INTRODUCTION TO INTELLIGENT SYSTEMS
+AIF301	| PENGANTAR SISTEM CERDAS / INTRODUCTION TO INTELLIGENT SYSTEMS  
   | Mempelajari definisi, karakteristikagen cerdas, blind search, informed search, local search, adversarial search, representasi pengetahuan dengan Propositional Logic dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin
-AIF302	| PENULISAN ILMIAH/ SCIENTIFIC WRITING
+AIF302	| PENULISAN ILMIAH/ SCIENTIFIC WRITING  
   | Mempersiapkan mahasiswa untuk mulai melakukan penelitianMemberikan penjelasan tentang penelitian dan jenis-jenisnya.
-AIF303	| PENGANTAR SISTEM INFORMASI / INTRODUCTION TO INFORMATION SYSTEMS
+AIF303	| PENGANTAR SISTEM INFORMASI / INTRODUCTION TO INFORMATION SYSTEMS  
   | Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.
-AIF304	| PROYEK SISTEM INFORMASI 1 / INFORMATION SYSTEM PROJECT 1
+AIF304	| PROYEK SISTEM INFORMASI 1 / INFORMATION SYSTEM PROJECT 1  
   | Mempelajari pendalaman manajemen projek (penyusunan Project Implementation Plan), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).
-AIF305	| JARINGAN KOMPUTER / COMPUTER NETWORKS
+AIF305	| JARINGAN KOMPUTER / COMPUTER NETWORKS  
   | Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;layering; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; Reliable data delivery; Lapisan jaringan; Local Area Network; Resource Allocation; Mobility; Multimedia Networking;Memperkenalkan keamanan jaringan; Social Networking;  Membangun dan administrasi jaringan LAN
-AIF306	| PROYEK INFORMATIKA / INFORMATICS PROJECT
+AIF306	| PROYEK INFORMATIKA / INFORMATICS PROJECT  
   | Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.
-AIF401	| SKRIPSI 1 / UNDERGRADUATE THESIS 1
+AIF401	| SKRIPSI 1 / UNDERGRADUATE THESIS 1  
   | Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing
-AIF402	| SKRIPSI 2 / UNDERGRADUATE THESIS 2
+AIF402	| SKRIPSI 2 / UNDERGRADUATE THESIS 2  
   | Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.
 AIF403	| KOMPUTER & MASYARAKAT / COMPUTER & SOCIETY
 Lulus 72 SKS | Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.
