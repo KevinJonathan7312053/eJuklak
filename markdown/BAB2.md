@@ -157,7 +157,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 4**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :-------------------------- | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS222    | Aljabar Linear               |   R   |   4   |
 | AMS252    | Statistika Matematika        |       |   4   |
 | AMS261    | Optimasi                     |       |   4   |
@@ -181,7 +181,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 6**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: | :----: |
 | AMS322    | Analisis Real                |   R   |   4   |
 | MKU009    | Bahasa Indonesia             |       |   2   |
 | ABCXYZ    | Pilihan                      |       |   12  |
@@ -191,7 +191,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **SEMESTER 7**  
 
 | Kode      | Nama                         |  APR  |  SKS  |
-| --------- | :--------------------------: | :---: | ----: |
+| --------- | :-------------------------- | :---: |:----: |
 | AMS490    | Seminar                      |       |   3   |
 | AMS491    | Pemodelan Matematika         |       |   4   |
 | MKU001    | Pancasila                    |       |   2   |
