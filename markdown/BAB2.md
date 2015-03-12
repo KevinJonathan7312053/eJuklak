@@ -855,7 +855,7 @@ AIF464	|Sistem Perusahaan Berskala Besar	||
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
-##### 2.7.3Peta dan Prasyarat Matakuliah 
+##### 2.7.3 Peta dan Prasyarat Matakuliah 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
 ##### 2.7.4 Deskripsi Matakuliah  
