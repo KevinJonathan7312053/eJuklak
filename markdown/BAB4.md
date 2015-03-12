@@ -54,4 +54,20 @@ Konversi **Angka Akhir** (**AA**) menjadi **Nilai Akhir** (**NA**) dilakukan den
 | 50 - 59   | D       |     1    | 
 | 0 - 49    | E       |     0    |  
 
-Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan **Penilaian Acuan Normal** (**PAN**).
+Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan **Penilaian Acuan Normal** (**PAN**).  
+
+### 4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
+
+Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
+
+1. Evaluasi Keberhasilan Belajar Tiap Semester
+2. Evaluasi Keberhasilan Belajar Tahap Pertama
+3. Evaluasi Keberhasilan Belajar Tahap Kedua
+4. Evaluasi Keberhasilan Belajar Tahap Akhir
+
+#### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
+
+Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester** (**IPS**) yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:  
+
+![](images/rumus.PNG)
+
