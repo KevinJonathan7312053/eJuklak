@@ -862,16 +862,16 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH
 --------|-----------------------------
-AIF101	| PEMROGRAMAN BERORIENTASI OBJEK/ OBJECT-ORIENTED PROGRAMMING
-| Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.
-AIF102	| ALGORITMA & STRUKTUR DATA / ALGORITHMS & DATA STRUCTURES
-| Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.
-AIF103	| MATEMATIKA DISKRIT / DISCRETE MATHEMATICS
-| Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.
-AIF104	| LOGIKA INFORMATIKA / LOGICS FOR INFORMATICS
-| Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.
-AIF105	| PENGANTAR INFORMATIKA/ INTRODUCTION TO INFORMATICS
-| Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
+AIF101	| PEMROGRAMAN BERORIENTASI OBJEK/ OBJECT-ORIENTED PROGRAMMING  
+  | Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.
+AIF102	| ALGORITMA & STRUKTUR DATA / ALGORITHMS & DATA STRUCTURES  
+  | Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.
+AIF103	| MATEMATIKA DISKRIT / DISCRETE MATHEMATICS  
+  | Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.
+AIF104	| LOGIKA INFORMATIKA / LOGICS FOR INFORMATICS  
+  | Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.
+AIF105	| PENGANTAR INFORMATIKA/ INTRODUCTION TO INFORMATICS  
+  | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
 
 ![](images/2.7.4.jpg)  
 
