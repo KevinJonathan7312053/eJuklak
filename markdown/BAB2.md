@@ -297,50 +297,31 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 #### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA  
 
-|KODE MK   | NAMA MATA KULIAH | DESKRIPSI MATA KULIAH                                              | 
-| :-------: | :---------------------------------------- | :-------------------------                                                              |
-|AMS 121    | KALKULUS I (CALCULUS I)| Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.           |
-|AMS 123    | PEMECAHAN MASALAH MATEMATIKA (MATHEMATICAL PROBLEM SOLVING) |Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
-|AMS151 |	STATISTIKA ELEMENTER (ELEMENTARY STATISTICS)|Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
-|AMS122	|KALKULUS 2 (CALCULUS 2)|
-|AMS121	|Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.|
-|AMS124|	MATEMATIKA DISKRET (DISCRETE MATHEMATICS)|
-|AMS123|	Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.|
-|AMS126|	ALJABAR MATRIKS (Matrix Algebra)|Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
-|AMS221|	KALKULUS  VEKTOR (VECTOR CALCULUS)|
-|AMS122 |	Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
-|AMS231|	TEORI  SUKU  BUNGA (THEORY OF INTEREST)|
-|AMS122|	Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
-|AMS251|	TEORI  PELUANG (PROBABILITY THEORY)|
-|AMS122|Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
-|AMS253|	KOMPUTASI STATISTIKA (STATISTICAL COMPUTATION)|
-|APS181, AMS151|	Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
-|AMS271|	METODEMATEMATIKA (MATHEMATICAL METHODS)|
-|AMS122|	Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
-|AMS222|	ALJABAR LINEAR (LINEAR ALGEBRA)|
-|AMS126|	Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
-|AMS252|	STATISTIKA  MATEMATIKA (MATHEMATICAL STATISTICS)|
-|AMS251|	Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.|
-|AMS261|	OPTIMASI (OPTIMIZATION)|
-|AMS126, AMS221|	Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
-|AMS272|	PERSAMAAN  DIFERENSIAL  BIASA (ORDINARY DIFFERENTIAL EQUATIONS)|
-|AMS122, AMS126|	Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
-|AMS273|	KOMPUTASI MATEMATIKA (COMPUTATIONAL MATHEMATICS)|
-|AMS126, AMS151, AMS221|	Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
-|AMS321|	FUNGSI KOMPLEKS (Functions of A Complex Variable)|
-|AMS221|	Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
-|AMS351|	PROSES  STOKASTIK (STOCHASTIC PROCESSES)|
-|AMS251|	Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
-|AMS373|	METODE NUMERIK (NUMERICAL METHODS)|
-|AMS273|	Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|
-|AMS322|	ANALISIS REAL (REAL ANALYSIS)|
-|AMS321|	Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
-|AMS491|	PEMODELAN  MATEMATIKA (MATHEMATICAL MODELLING)|
-|AMS126, AMS221,AMS253, AMS272,AMS273|	Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
-|AMS490|	SEMINAR (SEMINAR)|
-|lulus minimal 110 sks|	Studi pustaka, penulisan dan presentasi karya ilmiah.|
-|AMS499|	SKRIPSI (FINAL PROJECT)|
-|AMS490  minimal C|	Studi pustaka, penulisan dan penyajian lisan skripsi.|
+|KODE MK   | NAMA & DESKRIPSI MATA KULIAH   | PRASYARAT|
+| :-------: | :----------------------------------------|:------------|
+|AMS 121    | *KALKULUS I (CALCULUS I)*  Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.           |-|
+|AMS 123    |*PEMECAHAN MASALAH MATEMATIKA (MATHEMATICAL PROBLEM SOLVING)* Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|-|
+|AMS151 |*	STATISTIKA ELEMENTER (ELEMENTARY STATISTICS)* Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|-|
+|AMS122	|*KALKULUS 2 (CALCULUS 2)* Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.|AMS121|
+|AMS124|	*MATEMATIKA DISKRET (DISCRETE MATHEMATICS)* Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.|AMS123|
+|AMS126|	*ALJABAR MATRIKS (Matrix Algebra)* Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.||
+| AMS221|	*KALKULUS  VEKTOR (VECTOR CALCULUS)* Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|AMS122 |	
+|AMS231|	*TEORI  SUKU  BUNGA (THEORY OF INTEREST)* Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|AMS122|	
+|AMS251|	*TEORI  PELUANG (PROBABILITY THEORY)* Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|AMS122|
+|AMS253|	*KOMPUTASI STATISTIKA (STATISTICAL COMPUTATION)* Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|APS181, AMS151|	
+|AMS271|	*METODEMATEMATIKA (MATHEMATICAL METHODS)* 	Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|AMS122|
+|AMS222|	*ALJABAR LINEAR (LINEAR ALGEBRA)* Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|AMS126|	
+|AMS252|	*STATISTIKA  MATEMATIKA (MATHEMATICAL STATISTICS)* 	Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.|AMS251|
+|AMS261|	*OPTIMASI (OPTIMIZATION)* Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|AMS126, AMS221|	
+|AMS272|	*PERSAMAAN  DIFERENSIAL  BIASA (ORDINARY DIFFERENTIAL EQUATIONS)* 	Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|AMS122, AMS126|
+|AMS273|	*KOMPUTASI MATEMATIKA (COMPUTATIONAL MATHEMATICS)*	Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|AMS126, AMS151, AMS221|
+|AMS321|	*FUNGSI KOMPLEKS (Functions of A Complex Variable)* 	Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|AMS221|
+|AMS351|	*PROSES  STOKASTIK (STOCHASTIC PROCESSES)* Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|AMS251|	
+|AMS373|	*METODE NUMERIK (NUMERICAL METHODS)* Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|AMS273|	
+|AMS322|	ANALISIS REAL (REAL ANALYSIS)*Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|AMS321|	
+|AMS491|	*PEMODELAN  MATEMATIKA (MATHEMATICAL MODELLING)* 	Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|AMS126, AMS221,AMS253, AMS272,AMS273|
+|AMS490|	*SEMINAR (SEMINAR)*Studi pustaka, penulisan dan presentasi karya ilmiah.|lulus minimal 110 sks|	
+|AMS499|	*SKRIPSI (FINAL PROJECT)* Studi pustaka, penulisan dan penyajian lisan skripsi.|AMS490  minimal C|	
 
 ![](images/2.5.3.jpg)
 
