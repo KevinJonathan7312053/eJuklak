@@ -19,13 +19,9 @@ Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, 
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut: 
 
 a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-
 b. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
-
 c. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
-
 d. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-
 e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
 
 |     IPS     | Hak Tempuh pada Semester Berikutnya |
@@ -74,7 +70,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
   * membaca bahan yang diperkirakan akan dibahas dosen,  
   * menanyakan segala **hal** yang belum jelas kepada dosen,
   * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
-  **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.  
+  * **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.  
 
 2. **Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.  
   * *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.  
