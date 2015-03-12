@@ -318,7 +318,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS321|	**FUNGSI KOMPLEKS (Functions of A Complex Variable)** 	Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|AMS221|
 |AMS351|	**PROSES  STOKASTIK (STOCHASTIC PROCESSES)** Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|AMS251|	
 |AMS373|	**METODE NUMERIK (NUMERICAL METHODS)** Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|AMS273|	
-|AMS322|	ANALISIS REAL (REAL ANALYSIS)*Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|AMS321|	
+|AMS322|	**ANALISIS REAL (REAL ANALYSIS)** Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|AMS321|	
 |AMS491|	**PEMODELAN  MATEMATIKA (MATHEMATICAL MODELLING)** 	Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|AMS126, AMS221,AMS253, AMS272,AMS273|
 |AMS490|	**SEMINAR (SEMINAR)** Studi pustaka, penulisan dan presentasi karya ilmiah.|lulus minimal 110 sks|	
 |AMS499|	**SKRIPSI (FINAL PROJECT)** Studi pustaka, penulisan dan penyajian lisan skripsi.|AMS490  minimal C|	
