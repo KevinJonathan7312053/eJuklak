@@ -108,3 +108,13 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
     * Yudisium : Dengan Pujian (masa studi terpakai ≤ **9 semester**)
     * Yudisium : Sangat Memuaskan (masa studi terpakai > **9 semester**)
 
+### 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
+
+## Lampiran 4
+
+![](images/lampiran4.png)
+![](images/lampiran4.1.png)
+![](images/lampiran4.2.png)
+![](images/lampiran4.3.png)
+![](images/lampiran4.4.png)
+![](images/lampiran4.5.png)
