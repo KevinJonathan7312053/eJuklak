@@ -103,8 +103,7 @@ Syarat untuk mengikuti UTS dan UAS:
 
 **A. Kehadiran**  
 
-1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit**  
-**sebelum** ujian dimulai.
+1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** **sebelum** ujian dimulai.
 2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
 3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
 
@@ -112,8 +111,7 @@ Syarat untuk mengikuti UTS dan UAS:
 
 1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
 2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
-3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan tujuan apapun ke tempat duduk, kecuali pada mata.
-ujian yang diijinkan oleh dosen yang bersangkutan.
+3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
 4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
 5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.
 6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
@@ -126,9 +124,7 @@ ujian yang diijinkan oleh dosen yang bersangkutan.
 
 **D. Tempat Duduk**  
 
-1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai**  
-**dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman  
-akademik fakultas.  
+1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai** **dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.  
 2. Pergantian tempat duduk harus sepengetahuan dan ijin pengawas ujian.  
 
 **E. Pelaksanaan**  
@@ -163,6 +159,7 @@ Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat  
 mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
+
 1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 2. Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui   
