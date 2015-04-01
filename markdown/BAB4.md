@@ -118,7 +118,17 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).  
 
-
+## Lampiran 1  
+### Jadwal Akademik Tahun Akademik 2014/2015
+| Kegiatan          | Semester Ganjil                     | Semester Genap |
+| :---------------- | :----------------: | :------------: | 
+| Perwalian dan FRS | Senin-Kamis, 21-24 Juli 2014     |    Selasa-Jumat, 13-16 Jan. 2015  |
+| Awal perkuliahan  | Senin, 18 Agt. 2014      |     Senin, 26 Jan. 2015    | 
+| PRS               | Senin-Selasa, 1-2 Sep. 2014       |    Senin-Selasa, 9-10 Feb. 2015    | 
+| UTS               | Senin-Jumat, 6-18 Okt. 2014      |    Senin-Jumat, 16-28 Mar. 2015    | 
+| Akhir perkuliahan | Sabtu, 6 Des. 2014       |     Sabtu, 23 Mei 2015   | 
+| UAS               | Senin-Jumat, 8-20 Des.2014      |    Senin-Jumat, 25 Mei-6 Juni 2015    | 
+| Pengumuman Nilai Akhir   | Jumat, 9 Jan. 2015      |     Senin, 24 Juni 2015   |  
 
 ## Lampiran 4
 
