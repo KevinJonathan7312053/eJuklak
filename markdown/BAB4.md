@@ -90,7 +90,7 @@ Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan*
 Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 – 4,00** yang dihitung dengan rumus  
  
-//gambar  
+![](images/ipk.PNG)  
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
 1.	Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
@@ -99,5 +99,12 @@ dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, 
 Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang **tidak diijinkan untuk melanjutkan studi** dilakukan dengan surat keputusan Rektor.
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:  
 
-//gambar  
+* IPK
+  * 2,00 - 2,75
+    * Memuaskan
+  * 2,76 - 3,50
+    * Sangat Memuaskan
+  * 3,51 - 4,00
+    * Dengan Pujian (masa studi terpakai ≤ **9 semester**)
+    * Sangat Memuaskan (masa studi terpakai > **9 semester**)
 
