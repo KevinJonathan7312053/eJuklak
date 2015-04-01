@@ -69,5 +69,12 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester** (**IPS**) yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:  
 
-![](images/rumus.PNG)
+![](images/rumus.PNG)  
 
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya.**  
+
+#### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama  
+
+Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2 (dua) tahun pertama**, atau **pada akhir masa studi terpakai selama 4 (empat) semester**, terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam **Indeks Prestasi Tahap Pertama (IPT I)**, dengan rentang **0,00 – 4,00.**  
+Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Pertama adalah telah **lulus minimal 30 SKS** dan **IPT Iminimal 2,00**. Dalam hal ini yang dimaksud dengan IPT I adalahIndeks Prestasi untuk 30 SKS terbaik.Jika persyaratan tersebut tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodiyang sama di lingkungan UNPAR. Penetapan mahasiswa yang **tidak diijinkan untuk melanjutkan studi** dilakukan dengan surat keputusan Rektor.  
+Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Pertama.
