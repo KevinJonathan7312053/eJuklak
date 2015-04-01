@@ -79,158 +79,104 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
   * *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.  
 
 3. **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
-  
+
 ### 3.3 Tata Cara Ujian  
-Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan belajar hingga  
-suatu tahap yang ditetapkan. Ujian terdiri atas:    
-1. Ujian Tengah Semester (UTS)  
-2. Ujian Akhir Semester (UAS)  
-3. Ujian Praktikum (jika ada)  
-4. Ujian Seminar dan Skripsi  
-  
-Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR.  
-Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi.  
-Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian  
-asalkan masih dalam semester tersebut.  
+
+Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas:  
+
+1. Ujian Tengah Semester (UTS)
+2. Ujian Akhir Semester (UAS)
+3. Ujian Praktikum (jika ada)
+4. Ujian Seminar dan Skripsi
+
+Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian   asalkan masih dalam semester tersebut.  
   
 #### 3.3.1 Syarat Mengikuti Ujian  
+
 Syarat untuk mengikuti UTS dan UAS:  
 
-1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti  
-kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak  
-menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada  
-semester tersebut berdasarkan SK Rektor UNPAR.  
-2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian  
-**khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat  
-dispensasi penundaan pembayaran kuliah oleh WD-2.  
-3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan  
-pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA)  
-bagi yang kehilangan KTM.
+1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada   semester tersebut berdasarkan SK Rektor UNPAR.  
+2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.  
+3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
 
 #### 3.3.2 Tata Tertib Ujian  
-**A. Kehadiran**    
-  
+
+**A. Kehadiran**  
+
 1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit**  
-**sebelum** ujian dimulai.    
-2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan  
-mengikuti ujian yang bersangkutan.    
-3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait    
-4. **bernilai 0 (nol).**  
-  
+**sebelum** ujian dimulai.
+2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
+3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
+
 **B. Perlengkapan**  
-  
-1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah,  
-dan diletakkan di atas meja ujian masing-masing selama ujian.  
-2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling  
-meminjam atau bertukar alat tulis dengan peserta ujian lain.  
-3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator  
-dalam bentuk dan tujuan apapun ke tempat duduk, kecuali pada mata  
-ujian yang diijinkan oleh dosen yang bersangkutan.  
-4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan  
-sebagainya) **harus dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan  
-nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan  
-alasan dan tujuan apapun.  
-5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.  
-6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan  
-di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.  
-7. Peserta ujian dilarang merokok di ruang ujian.  
+
+1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
+2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
+3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan tujuan apapun ke tempat duduk, kecuali pada mata.
+ujian yang diijinkan oleh dosen yang bersangkutan.
+4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
+5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.
+6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
+7. Peserta ujian dilarang merokok di ruang ujian.
   
 **C. Pakaian**  
-  
+
 1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.  
 2. Peserta ujian **wajib** memakai sepatu.  
-  
+
 **D. Tempat Duduk**  
-  
+
 1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai**  
 **dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman  
 akademik fakultas.  
 2. Pergantian tempat duduk harus sepengetahuan dan ijin pengawas ujian.  
-  
+
 **E. Pelaksanaan**  
-  
-1.	Peserta ujian dilarang membuka dan membaca soal ujian  
-sebelum diperbolehkan oleh pengawas ujian.   
-2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama,  
-NPM sesuai dengan yang diminta pada lembar jawab ujian dan  
-menandatanganinya, serta menandatangani pernyataan akan taat pada tata  
-tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak  
-sah.  
-3.	Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan  
-dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum  
-jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas  
-ujian.  
-4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram  
-resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan  
-dikumpulkan kembali bersama-sama lembar jawab ujian.  
-5.	Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan  
-wajib memberitahu pengawas jika sampai ujian berakhir belum  
-menandatangani daftar hadir.  
-6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa  
-ijin pengawas dianggap telah menyelesaikan ujian.  
-7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah  
-menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram**  
-terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar  
-jawab.  
-8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk  
-meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.  
-9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian  
-berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:    
-  a.	**Melihat** berkas ujian milik peserta ujian lain;  
-  b.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada  
-peserta ujian lain;  
-  c.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan  
-cara dan media apapun;  
-  d.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali  
-ujian bersifat buku terbuka atau catatan terbuka);  
-  e.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku,  
-kalkulator, dan sebagainya selama ujian berlangsung.    
-10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan  
-dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan  
-Akademik FTIS.   
-11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan  
-meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta  
-yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC,  
-harus melakukannya sebelum ujian dimulai.  
+
+1.	Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.   
+2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata   tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.  
+3.	Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.  
+4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.  
+5.	Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.  
+6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.  
+7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.  
+8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
+9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:  
+  1.	**Melihat** berkas ujian milik peserta ujian lain;
+  2.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+  3.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+  4.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+  5.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.  
+10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
+11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
   
 #### 3.3.3 Sanksi  
   
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:  
 
 1.	Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.  
-2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari  
-pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.  
-3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS  
-/ UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK  
-Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang  
-*Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).*  
-4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama:  
-pembatalan hak tempuh UTS / UAS **seluruh** matakuliah pada masa ujian  
-terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang *Peraturan  
-Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).*  
+2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.  
+3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang *Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).*  
+4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** matakuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang *Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).*
+
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.  
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat  
 mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
-
-1.	Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi   
-**E** (tidak lulus).  
-2.	Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa   
-yang bersangkutan ditetapkan menjadi **E** (tidak lulus).  
-3.	Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui   
-rapat pimpinan fakultas.  
+1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+2. Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui   
+rapat pimpinan fakultas.
 
 #### 3.3.4	Lain-lain  
 
 1.	**Tidak ada ujian khusus** untuk perbaikan nilai ujian.  
-2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila   
-mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian   
-matakuliah mahasiswa yang bersangkutan sedang berlangsung:    
+2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:    
   *	Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.  
   * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.  
-  * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta   
-  pimpinan jurusan.  
-Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan* bagi   
+  * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+
+  Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan* bagi   
 mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan   
 terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.  
   
