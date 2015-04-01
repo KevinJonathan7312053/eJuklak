@@ -95,6 +95,7 @@ asalkan masih dalam semester tersebut.
   
 #### 3.3.1 Syarat Mengikuti Ujian  
 Syarat untuk mengikuti UTS dan UAS:  
+
 1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti  
 kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak  
 menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada  
@@ -195,6 +196,7 @@ harus melakukannya sebelum ujian dimulai.
 #### 3.3.3 Sanksi  
   
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:  
+
 1.	Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.  
 2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari  
 pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.  
@@ -210,6 +212,7 @@ Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat  
 mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
+
 1.	Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi   
 **E** (tidak lulus).  
 2.	Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa   
