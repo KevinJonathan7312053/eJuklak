@@ -95,11 +95,10 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah financial, atau (c) masalah pribadi lainnya.  
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).  
 4.	Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.  
-5.	Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib  
-
+5.	Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
   *  Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
   *  Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
-6.	Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila  
+6.	Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
   *  Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.  
   *  Mendapat ijin dari WR-1.  
 
