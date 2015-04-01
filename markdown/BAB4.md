@@ -101,10 +101,10 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 
 * IPK
   * 2,00 - 2,75
-    * Memuaskan
+    * Yudisium : Memuaskan
   * 2,76 - 3,50
-    * Sangat Memuaskan
+    * Yudisium : Sangat Memuaskan
   * 3,51 - 4,00
-    * Dengan Pujian (masa studi terpakai ≤ **9 semester**)
-    * Sangat Memuaskan (masa studi terpakai > **9 semester**)
+    * Yudisium : Dengan Pujian (masa studi terpakai ≤ **9 semester**)
+    * Yudisium : Sangat Memuaskan (masa studi terpakai > **9 semester**)
 
