@@ -112,7 +112,7 @@ Syarat untuk mengikuti UTS dan UAS:
 1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
 2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
 3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
-4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
+4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan / dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
 5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.
 6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
 7. Peserta ujian dilarang merokok di ruang ujian.
@@ -177,7 +177,7 @@ rapat pimpinan fakultas.
 mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan   
 terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.  
   
-Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau  
+  Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau  
 penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk   
 pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.  
  
