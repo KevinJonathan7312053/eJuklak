@@ -83,6 +83,21 @@ Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan*
 
 Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan **pada akhir 4 (empat) tahun pertama**, atau **pada akhir masa studi terpakai selama 8 (delapan) semester** terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam **Indeks Prestasi Tahap Kedua (IPT II)**, dengan rentang **0,00 – 4,00**.  
 Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Kedua adalah telah lulus minimal 75 SKS dan IPT II **minimal 2,00**. Dalam hal ini yang dimaksud dengan IPT II adalahIndeks Prestasi untuk 75SKS terbaik. Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang **tidak diijinkan untuk melanjutkan studi** dilakukan dengan surat keputusan Rektor.  
-Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Kedua.
+Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Kedua.  
 
+#### 4.2.4 Evaluasi Keberhasilan Belajar Tahap Akhir  
+
+Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
+Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 – 4,00** yang dihitung dengan rumus  
+ 
+//gambar  
+
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
+1.	Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
+2.	IPK ≥ 2,00.
+3.	Masa studi terpakai tidak lebih dari 14 (empat belas) semester.
+Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang **tidak diijinkan untuk melanjutkan studi** dilakukan dengan surat keputusan Rektor.
+IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:  
+
+//gambar  
 
