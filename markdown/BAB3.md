@@ -162,8 +162,7 @@ mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 
 1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 2. Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
-3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui   
-rapat pimpinan fakultas.
+3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
 #### 3.3.4	Lain-lain  
 
@@ -177,7 +176,7 @@ rapat pimpinan fakultas.
 mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan   
 terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.  
   
-  Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau  
+Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau  
 penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk   
 pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.  
  
