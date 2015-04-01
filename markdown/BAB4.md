@@ -118,3 +118,23 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 ![](images/lampiran4.3.png)
 ![](images/lampiran4.4.png)
 ![](images/lampiran4.5.png)
+
+## Lampiran 5
+
+![](images/lampiran5.png)
+![](images/lampiran5.1.png)
+![](images/lampiran5.2.png)
+
+## Lampiran 6
+
+![](images/lampiran6.png)
+![](images/lampiran6.1.png)
+
+## Lampiran 7
+
+![](images/lampiran7.png)
+![](images/lampiran7.1.png)
+![](images/lampiran7.2.png)
+![](images/lampiran7.3.png)
+![](images/lampiran7.4.png)
+![](images/lampiran7.5.png)
