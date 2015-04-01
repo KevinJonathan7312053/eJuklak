@@ -130,6 +130,23 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | UAS               | Senin-Jumat, 8-20 Des.2014      |    Senin-Jumat, 25 Mei-6 Juni 2015    | 
 | Pengumuman Nilai Akhir   | Jumat, 9 Jan. 2015      |     Senin, 24 Juni 2015   |  
 
+## Lampiran 2  
+### Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015  
+| Tahap | Semester Ganjil | Semester Genap |  
+| :---: | :-------------: | :------------: |  
+| Tahap 1 (BRP dan 10 SKS) | Kamis, 14 Juli 2014 | Jumat, 9 Jan 2015 |
+| Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
+  
+## Lampiran 3
+### Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015  
+
+| |	LIX |	LX |	LXI |  
+| :-- | :--: | :--: | :--: |  
+| Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015 | Jumat, 12 Jun. 2015 |  
+| Sidang Sarjana | Jum’at, 3 Okt. 2014 | Jum’at, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |  
+| Batas akhir pendaftaran wisuda | Senin, 6 Okt. 2014 | Senin, 2 Feb. 2015 | Kamis, 25 Jun. 2015 |  
+| Wisuda | Sabtu, 1 Nov. 2014 | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015 |  
+
 ## Lampiran 4
 
 ![](images/lampiran4.png)
