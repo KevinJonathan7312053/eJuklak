@@ -1,4 +1,4 @@
-package com.unpar.ftis.ejuklakapp;
+package com.example.ejuklakapp;
 import android.view.View;
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
