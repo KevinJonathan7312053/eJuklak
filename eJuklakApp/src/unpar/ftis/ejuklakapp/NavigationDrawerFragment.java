@@ -273,8 +273,28 @@ public class NavigationDrawerFragment extends Fragment {
 			return true;
 		}
 
-		if (item.getItemId() == R.id.action_example) {
-			Toast.makeText(getActivity(), "Petunjuk Pelaksanaan Unpar.", Toast.LENGTH_SHORT)
+		if (item.getItemId() == R.id.action_example1) {
+			Toast.makeText(getActivity(), "Petunjuk Pelaksanaan Unpar", Toast.LENGTH_SHORT)
+					.show();
+			return true;
+		}
+		if (item.getItemId() == R.id.action_example2) {
+			Toast.makeText(getActivity(), "Bab 1", Toast.LENGTH_SHORT)
+					.show();
+			return true;
+		}
+		if (item.getItemId() == R.id.action_example3) {
+			Toast.makeText(getActivity(), "Bab 2", Toast.LENGTH_SHORT)
+					.show();
+			return true;
+		}
+		if (item.getItemId() == R.id.action_example4) {
+			Toast.makeText(getActivity(), "Bab 3", Toast.LENGTH_SHORT)
+					.show();
+			return true;
+		}
+		if (item.getItemId() == R.id.action_example5) {
+			Toast.makeText(getActivity(), "Bab 4", Toast.LENGTH_SHORT)
 					.show();
 			return true;
 		}
