@@ -67,16 +67,16 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
 
 1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
-  * membaca bahan yang diperkirakan akan dibahas dosen,
-  * menanyakan **segala** hal yang belum jelas kepada dosen,
-  * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
+    * membaca bahan yang diperkirakan akan dibahas dosen,
+    * menanyakan **segala** hal yang belum jelas kepada dosen,
+    * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
 
   **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.  
 
 2. **Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.  
-  * *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.  
-  * *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
-  * *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.  
+    * *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.  
+    * *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
+    * *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.  
 
 3. **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
 
@@ -127,7 +127,7 @@ Syarat untuk mengikuti UTS dan UAS:
 1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai** **dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.  
 2. Pergantian tempat duduk harus sepengetahuan dan ijin pengawas ujian.  
 
-**E. Pelaksanaan**  
+**E. Pelaksanaan**
 
 1.	Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.   
 2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata   tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.  
@@ -137,12 +137,12 @@ Syarat untuk mengikuti UTS dan UAS:
 6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.  
 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.  
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
-9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:  
-  1.	**Melihat** berkas ujian milik peserta ujian lain;
-  2.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
-  3.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
-  4.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-  5.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.  
+9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+    1.	**Melihat** berkas ujian milik peserta ujian lain;
+    2.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+    3.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+    4.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+    5.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
   
@@ -213,9 +213,9 @@ Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut at
 
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:
 
-1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan  
-  *  alasan gencat studi pada semester sebelumnya  
-  *  rekomendasi dosen wali yang bersangkutan
+1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan
+    *  alasan gencat studi pada semester sebelumnya  
+    *  rekomendasi dosen wali yang bersangkutan  
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
