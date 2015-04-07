@@ -45,11 +45,9 @@ Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus m
 
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
 
-Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa **wajib** memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
-
-
-| **Catatan:** Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut **dapat diwakilkan oleh mahasiswa FTIS UNPAR**, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah **10 sks**. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.     |
-| ------------------------------------------------------------------------ |
+Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa **wajib** memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali.   
+  
+**Catatan:**  Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut **dapat diwakilkan oleh mahasiswa FTIS UNPAR**, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah **10 sks**. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
 
 #### 3.1.3 Tahap Awal Perkuliahan
 
@@ -167,12 +165,11 @@ mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 #### 3.3.4	Lain-lain  
 
 1.	**Tidak ada ujian khusus** untuk perbaikan nilai ujian.
-2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
-  *	Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
-  *	Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
-  *	Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
-
-  Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan* bagi   
+2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:    
+    *	Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.    
+    *	Mewakili negara / UNPAR dalam suatu kegiatan tertentu.  
+    *	Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.  
+Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan* bagi   
 mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan   
 terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.  
   
@@ -218,9 +215,9 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
     *  rekomendasi dosen wali yang bersangkutan  
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
-4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
-    1.  Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.  
-    2.  Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.  
+4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan  
+    1.  Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.    
+    2.  Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.    
     3.  Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir pertama. di atas.  
   
 
@@ -229,6 +226,6 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
   1.  Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.  
   2.  Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.  
   3.  Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).  
-  4.	Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:  
-    *	SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.  
+  4.	Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:         
+    *	SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.    
     *	Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
