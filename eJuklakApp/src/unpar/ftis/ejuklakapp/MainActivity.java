@@ -74,7 +74,7 @@ public class MainActivity extends ActionBarActivity implements
 		case 1:
 			mTitle = getString(R.string.title_section1);
 			tes = "Kata Pengantar";
-			
+			web.loadUrl("file:///android_asset/KataPengantar.html");
 			break;
 		case 2:
 			mTitle = getString(R.string.title_section2);
