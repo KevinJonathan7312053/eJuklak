@@ -293,7 +293,8 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
 #### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar di bawah.  
+![](images/2.5.3.jpg)
 
 #### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA  
 
@@ -322,8 +323,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS491|	**PEMODELAN  MATEMATIKA (MATHEMATICAL MODELLING)** 	Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|AMS126, AMS221,AMS253, AMS272,AMS273|
 |AMS490|	**SEMINAR (SEMINAR)** Studi pustaka, penulisan dan presentasi karya ilmiah.|lulus minimal 110 sks|	
 |AMS499|	**SKRIPSI (FINAL PROJECT)** Studi pustaka, penulisan dan penyajian lisan skripsi.|AMS490  minimal C|	
-
-![](images/2.5.3.jpg)
 
 ### 2.6  Kurikulum Program Studi Fisika
 #### 2.6.1  Susunan Mata Kuliah  
