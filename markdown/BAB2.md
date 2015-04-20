@@ -518,8 +518,8 @@ No    |  Kelompok Mata kuliah
 | APS474    | Kosmologi Relativistik                  |   3   |
 | APS479    | Kapita Selekta Astrofisika              |   3   |
 
-Komposisi Kuliah wajib dan pilihan adalah
-* Kuliah Wajib = 120 sks
+Komposisi Kuliah wajib dan pilihan adalah  
+* Kuliah Wajib = 120 sks  
 * Kuliah Pilihan = 24 sks  
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
