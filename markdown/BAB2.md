@@ -11,18 +11,21 @@ Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untu
 
 ### 2.1 Mata Kuliah Pilihan
 
-Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
+Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:  
+  
   1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
   2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
   3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.  
 
-Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
+Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:  
+  
   1. Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
   2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
 ### 2.2 Mata Kuliah Prasyarat
 
-Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
+Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:  
+  
   1. **Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
   2. **Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
   3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
@@ -518,9 +521,9 @@ No    |  Kelompok Mata kuliah
 | APS474    | Kosmologi Relativistik                  |   3   |
 | APS479    | Kapita Selekta Astrofisika              |   3   |
 
-Komposisi Kuliah wajib dan pilihan adalah  
-* Kuliah Wajib = 120 sks  
-* Kuliah Pilihan = 24 sks  
+Komposisi Kuliah wajib dan pilihan adalah    
+Kuliah Wajib = 120 sks    
+Kuliah Pilihan = 24 sks
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran  *soft-skills*  berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
@@ -570,7 +573,7 @@ Peta dan prasyarat mata kuliah Program Studi Fisika.
 | SAB315  |**Kewirausahaan /** ***Entrepreneurship*** Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.|-|
 
 ### 2.7 Kurikulum Program Studi Teknik Informatika
-##### 2.7.1 Sususan matakuliah
+#### 2.7.1 Sususan matakuliah
 
 
 **Semester 1**  
@@ -676,12 +679,12 @@ Peta dan prasyarat mata kuliah Program Studi Fisika.
 
 Keterangan :
 
-1.	Mata kuliah pilihan wajib.
+1.	Mata kuliah pilihan wajib.  
     Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut 
-2.	Mata kuliah projek.
-    Mahasiswa harus lulus salah satu dari 
-*	Projek Informatika, atau 
-*	Projek Sistem Informasi 1 dan Projek Sistem Informasi 2  
+2.	Mata kuliah projek.  
+    Mahasiswa harus lulus salah satu dari     
+    * Projek Informatika, atau     
+	* Projek Sistem Informasi 1 dan Projek Sistem Informasi 2  
 
 
 Aturan tambahan :
@@ -702,7 +705,7 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
   
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+#### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
 **KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
@@ -771,11 +774,11 @@ AIF468	|Teknologi Multimedia   ||
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
-##### 2.7.3 Peta dan Prasyarat Matakuliah 
+#### 2.7.3 Peta dan Prasyarat Matakuliah 
 Peta dan prasyarat mata kuliah Program Studi Teknik Informatika.
 ![](images/2.7.4.jpg)
 
-##### 2.7.4 Deskripsi Matakuliah  
+#### 2.7.4 Deskripsi Matakuliah  
 
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH|PRASYARAT|
 :--------|:-----------------------------|:---------------------:|
