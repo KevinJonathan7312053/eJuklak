@@ -293,7 +293,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
 #### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar di bawah.  
+Peta dan prasyarat mata kuliah Program Studi Matematika.  
 ![](images/2.5.3.jpg)
 
 #### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA  
@@ -526,10 +526,9 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran  *soft-skills*  berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 #### 2.6.3 Peta dan Prasyarat Matakuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+Peta dan prasyarat mata kuliah Program Studi Fisika.
   
 ![](images/2.6.4.jpg)
-Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 #### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
@@ -795,7 +794,8 @@ AIF469	|Layanan Berbasis Web	||
 AIF470	|Pemrograman Jaringan	||						
 
 ##### 2.7.3 Peta dan Prasyarat Matakuliah 
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
+Peta dan prasyarat mata kuliah Program Studi Teknik Informatika.
+![](images/2.7.4.jpg)
 
 ##### 2.7.4 Deskripsi Matakuliah  
 
@@ -806,13 +806,6 @@ AIF102	| **ALGORITMA & STRUKTUR DATA /** ***ALGORITHMS & DATA STRUCTURES***  Mem
 AIF103	| **MATEMATIKA DISKRIT /** ***DISCRETE MATHEMATICS*** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.|-|
 AIF104	| **LOGIKA INFORMATIKA /** ***LOGICS FOR INFORMATICS*** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.|
 AIF105	| **PENGANTAR INFORMATIKA/** ***INTRODUCTION TO INFORMATICS*** Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika. |-|
-
-![](images/2.7.4.jpg)  
-
-Gambar 3. Peta dan Prasyarat Matakuliah Deskripsi matakuliah  
-
-KODE MK	| NAMA & DESKRIPSI MATA KULIAH| PRASYARAT|
-:--------:|:-----------------------------|:--------:|
 AIF106	| **SISTEM DIJITAL /** ***DIGITAL SYSTEMS***  Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.|-|
 AIF201	| **ANALISIS & DESAIN BERORIENTASI OBJEK /** ***OBJECT-ORIENTED ANALYSIS & DESIGN*** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|-|
 AIF202	| **DESAIN & ANALISIS ALGORITMA /** ***DESIGN & ANALYSIS OF ALGORITHMS*** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|-|
