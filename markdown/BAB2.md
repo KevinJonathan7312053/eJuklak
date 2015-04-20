@@ -714,6 +714,14 @@ AIF335	|Pembelajaran Mesin		||3
 AIF336	|Algoritma Kriptografi		||3
 AIF337	|Matematika Teknik		||3
 AIF338	|Bioinformatika		||3
+AIF339	|Pemodelan Formal		||3
+AIF340	|Komputasi Geometri		||3
+AIF341	|Adm. Jaringan Komputer 1		||3
+AIF342	|Adm. Jaringan Komputer 2		||3
+AIF343	|Pemrograman Kompetitif		||3
+AIF344	|Pemodelan & Simulasi		||3
+AIF345	|Pengujian Perangkat Lunak		||2
+AIF346	|Perancangan Permainan Komputer		||3
 AIF347	|e-Commerce		||2
 AIF348	|Verifikasi Formal		||3
 AIF350	|Algoritma Genetika		||2
@@ -730,24 +738,11 @@ AIF434	|Topik Khusus Sistem Informasi 4		||2
 AIF435	|Grafika Komputer Lanjut		||3
 AIF436	|Bio-Inspired Computing		||3
 AIF437	|Kecerdasan Buatan Untuk Permainan Komputer		||3			
-AIF438	|Penambangan Data		||3
-AIF439	|Kerja Praktek 2		||3
-AIF440	|Kerja Praktek 3		||4
+AIF438	|Penambangan Data		||3 
 AIF439	|Kerja Praktek 2		||3
 AIF440	|Kerja Praktek 3		||4
 AIF441	|Administrasi Jaringan Komputer 3		||3			
 AIF442	|Administrasi Jaringan Komputer 4		||3
-AIF465	|Teknologi Middleware		||
-AIF466	|Sistem Terdistribusi		||
-AIF468	|Teknologi Multimedia   ||
-AIF339	|Pemodelan Formal		||3
-AIF340	|Komputasi Geometri		||3
-AIF341	|Adm. Jaringan Komputer 1		||3
-AIF342	|Adm. Jaringan Komputer 2		||3
-AIF343	|Pemrograman Kompetitif		||3
-AIF344	|Pemodelan & Simulasi		||3
-AIF345	|Pengujian Perangkat Lunak		||2
-AIF346	|Perancangan Permainan Komputer		||3
 AIF443	|Matematika Kombinatorial		||3
 AIF444	|Pemrograman Permainan Komputer		||3		
 AIF445	|Metode Numerik		||3
@@ -770,6 +765,9 @@ AIF461	|Pencarian & Temu Kembali Informasi	||
 AIF462	|Manajemen Proses Bisnis	||	
 AIF463	|Jaringan Nirkabel		||
 AIF464	|Sistem Perusahaan Berskala Besar	||
+AIF465	|Teknologi Middleware		||
+AIF466	|Sistem Terdistribusi		||
+AIF468	|Teknologi Multimedia   ||
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
