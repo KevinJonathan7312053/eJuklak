@@ -400,7 +400,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ### 2.4 Mata Kuliah Umum
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
-#### 2.4.1 Susunan Matakuliah Umum
+#### 2.4.1 Susunan Mata Kuliah Umum
 
 | Kode      | Mata Kuliah                  | SKS   |
 | --------- | :-------------------------- | :---: | 
@@ -414,7 +414,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU011    | Estetika                     |   2   | 
 | MKU012    | Logika                       |   2   | 
 
-#### 2.4.2 Uraian Singkat Matakuliah Umum
+#### 2.4.2 Uraian Singkat Mata Kuliah Umum
 | NAMA MK  PRASYARAT       | NAMA MATA KULIAH  DESKRIPSI MATAKULIAH                                | 
 | ------------- | :----------------------------------------------- | 
 | MKU001        | PENDIDIKAN PANCASILA / PANCASILA EDUCATION        | 
@@ -618,11 +618,11 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
-#### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+#### 2.5.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah Program Studi Matematika.  
 ![](images/2.5.3.jpg)
 
-#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA  
+#### 2.5.4 Deskripsi Singkat Mata Kuliah Program Studi Matematika  
 
 |KODE MK   | NAMA & DESKRIPSI MATA KULIAH   | PRASYARAT|
 | :-------: | :----------------------------------------|:------------|
@@ -747,7 +747,7 @@ Peta dan prasyarat mata kuliah Program Studi Matematika.
 |    |  Mata Kuliah Pilihan  |    |  9  |  
 |      |    |  Total  |  18  
 
-Kode kelompok matakuliah(digit numerik kedua dalam kode kuliah):
+Kode kelompok mata kuliah(digit numerik kedua dalam kode kuliah):
 
 No    |  Kelompok Mata kuliah  
 :--:  |  :-------------------  
@@ -763,7 +763,7 @@ No    |  Kelompok Mata kuliah
 10    |  Kuliah Dasar, Keterampilan Umum, Lain-Lain  
 
     
-#### 2.6.2 Matakuliah Pilihan Program Studi Fisika
+#### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
 ##### Lain-lain 
 
@@ -896,7 +896,7 @@ Peta dan prasyarat mata kuliah Program Studi Fisika.
 | SAB315  |**Kewirausahaan /** ***Entrepreneurship*** Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.|-|
 
 ### 2.7 Kurikulum Program Studi Teknik Informatika
-#### 2.7.1 Sususan matakuliah
+#### 2.7.1 Sususan Mata Kuliah
 
 
 **Semester 1**  
@@ -1028,7 +1028,7 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
   
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-#### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+#### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika
 
 **KODE**	| **NAMA**	| **APR**	| **SKS**
 :--------:|-------|:-------:|:-------:
@@ -1097,11 +1097,11 @@ AIF468	|Teknologi Multimedia   ||
 AIF469	|Layanan Berbasis Web	||	
 AIF470	|Pemrograman Jaringan	||						
 
-#### 2.7.3 Peta dan Prasyarat Matakuliah 
+#### 2.7.3 Peta dan Prasyarat Mata Kuliah 
 Peta dan prasyarat mata kuliah Program Studi Teknik Informatika.
 ![](images/2.7.4.jpg)
 
-#### 2.7.4 Deskripsi Matakuliah  
+#### 2.7.4 Deskripsi Mata Kuliah  
 
 KODE MK	| NAMA & DESKRIPSI MATA KULIAH|PRASYARAT|
 :--------|:-----------------------------|:---------------------:|
@@ -1299,7 +1299,7 @@ mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 2. Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
-#### 3.3.4	Lain-lain  
+#### 3.3.4 Lain-lain  
 
 1.	**Tidak ada ujian khusus** untuk perbaikan nilai ujian.
 2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:    
@@ -1317,7 +1317,7 @@ pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 ### 3.4 Cuti dan Gencat Studi  
 (berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)  
 
-#### 3.4.1 Persyaratan cuti studi  
+#### 3.4.1 Persyaratan Cuti Studi  
 
 1.	Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.  
 2.	Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.  
