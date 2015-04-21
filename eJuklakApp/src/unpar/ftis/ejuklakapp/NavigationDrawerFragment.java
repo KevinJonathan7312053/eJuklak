@@ -1,4 +1,4 @@
-package com.unpar.ftis.ejuklakapp;
+package unpar.ftis.ejuklakapp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
@@ -7,8 +7,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.view.LayoutInflater;
@@ -17,6 +19,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -107,12 +110,84 @@ public class NavigationDrawerFragment extends Fragment {
 				});
 		mDrawerListView.setAdapter(new ArrayAdapter<String>(getActionBar()
 				.getThemedContext(), android.R.layout.simple_list_item_1,
-				android.R.id.text1, new String[] {
+				android.R.id.text1, new String[] 
+				{
+						getString(R.string.title_sectionHome),
 						getString(R.string.title_section1),
 						getString(R.string.title_section2),
+						getString(R.string.title_section2_1),
+						getString(R.string.title_section2_2),
+						getString(R.string.title_section2_3),
+						getString(R.string.title_section2_4),
+						getString(R.string.title_section2_5),
+						getString(R.string.title_section2_6),
+						getString(R.string.title_section2_Keberhasilan),
+						getString(R.string.title_section2_7),
+						getString(R.string.title_section2_8),
+						
 						getString(R.string.title_section3),
+						getString(R.string.title_section3_1),
+						getString(R.string.title_section3_2),
+						getString(R.string.title_section3_3),
+						getString(R.string.title_section3_4),
+						getString(R.string.title_section3_5),
+						getString(R.string.title_section3_6),
+						getString(R.string.title_section3_7),
+						getString(R.string.title_section3_8),
+						getString(R.string.title_section3_9),
+						
+						getString(R.string.title_section3_10),
+						getString(R.string.title_section3_11),
+						getString(R.string.title_section3_12),
+						getString(R.string.title_section3_13),
+						getString(R.string.title_section3_14),
+						getString(R.string.title_section3_15),
+						getString(R.string.title_section3_16),
+						getString(R.string.title_section3_17),
+						getString(R.string.title_section3_18),
+						getString(R.string.title_section3_19),
+						
+						getString(R.string.title_section3_20),
+						getString(R.string.title_section3_21),
+						getString(R.string.title_section3_22),
+						getString(R.string.title_section3_23),
+						getString(R.string.title_section3_24),
 						getString(R.string.title_section4),
-						getString(R.string.title_section5) }));
+						getString(R.string.title_section4_1),
+						getString(R.string.title_section4_2),
+						getString(R.string.title_section4_3),
+						getString(R.string.title_section4_4),
+						
+						getString(R.string.title_section4_5),
+						getString(R.string.title_section4_6),
+						getString(R.string.title_section4_7),
+						getString(R.string.title_section4_8),
+						getString(R.string.title_section4_9),
+						getString(R.string.title_section4_10),
+						getString(R.string.title_section4_11),
+						getString(R.string.title_section4_12),
+						getString(R.string.title_section4_13),
+						getString(R.string.title_section4_14),
+						
+						getString(R.string.title_section4_15),
+						getString(R.string.title_section4_16),
+						getString(R.string.title_section5),
+						getString(R.string.title_section5_1),
+						getString(R.string.title_section5_2),
+						getString(R.string.title_section5_3),
+						getString(R.string.title_section5_4),
+						getString(R.string.title_section5_5),
+						getString(R.string.title_section5_6),
+						getString(R.string.title_section5_7),
+						
+						getString(R.string.title_section5_8),
+						getString(R.string.title_section5_9),
+						getString(R.string.title_section5_10),
+						getString(R.string.title_section5_11),
+						getString(R.string.title_section5_12),
+						getString(R.string.title_section5_13),
+						getString(R.string.title_section5_14)
+				}));
 		mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 		return mDrawerListView;
 	}
@@ -273,32 +348,18 @@ public class NavigationDrawerFragment extends Fragment {
 			return true;
 		}
 
-		if (item.getItemId() == R.id.action_example1) {
-			Toast.makeText(getActivity(), "Petunjuk Pelaksanaan Unpar", Toast.LENGTH_SHORT)
-					.show();
-			return true;
+//		if (item.getItemId() == R.id.action_example1) {
+//			Toast.makeText(getActivity(), "Petunjuk Pelaksanaan Unpar", Toast.LENGTH_SHORT)
+//					.show();
+//			return true;
+//		}
+		if (item.getItemId() == R.id.action_example1){
+			
+			Uri url = Uri.parse("http://unpar.ac.id/");
+			Intent toBrowser = new Intent(Intent.ACTION_VIEW,url);
+			startActivity(toBrowser);
 		}
-		if (item.getItemId() == R.id.action_example2) {
-			Toast.makeText(getActivity(), "Bab 1", Toast.LENGTH_SHORT)
-					.show();
-			return true;
-		}
-		if (item.getItemId() == R.id.action_example3) {
-			Toast.makeText(getActivity(), "Bab 2", Toast.LENGTH_SHORT)
-					.show();
-			return true;
-		}
-		if (item.getItemId() == R.id.action_example4) {
-			Toast.makeText(getActivity(), "Bab 3", Toast.LENGTH_SHORT)
-					.show();
-			return true;
-		}
-		if (item.getItemId() == R.id.action_example5) {
-			Toast.makeText(getActivity(), "Bab 4", Toast.LENGTH_SHORT)
-					.show();
-			return true;
-		}
-
+		
 		return super.onOptionsItemSelected(item);
 	}
 

@@ -1,0 +1,28 @@
+body{
+	font-family: Arial;
+}
+
+table th, table td{
+	border: 2px solid #999999;
+}
+
+th{
+	background-color:#FFE2AA;
+}
+
+h2{
+	color: #001A33;
+}
+
+h3{
+	color: #003366;
+}	
+
+h4{
+	color: #00527A;
+}
+
+blockquote{
+	color: #3D3D1F;
+	font-style: italic;
+}

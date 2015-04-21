@@ -1,4 +1,4 @@
-package com.unpar.ftis.ejuklakapp;
+package unpar.ftis.ejuklakapp;
 
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
