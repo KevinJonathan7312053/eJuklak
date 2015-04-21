@@ -319,7 +319,7 @@ Email : pascal@unpar.ac.id
 Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data
 Email : husnulhakim@unpar.ac.id
  *	Vania Natali, S.Kom (UNPAR), studi S2 - ITB 
-Email : vania.natali@unpar.ac.id
+Email : vania.natali@unpar.ac.id  
 
 ## Bab 2 : Penyelenggaraan Mata Kuliah
 
@@ -1130,7 +1130,7 @@ AIF402	| **SKRIPSI 2 /** ***UNDERGRADUATE THESIS 2*** Skripsi 2 merupakan bagian
 AIF403	| **KOMPUTER & MASYARAKAT /** ***COMPUTER & SOCIETY*** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|Lulus 72 SKS|
 AIF405	| **PROYEK SISTEM INFORMASI 2 /** ***INFORMATION SYSTEM PROJECT 2*** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,pengujian modul, integrasi dan penerimaan user (UAT).|-|
 AMS100	| **MATEMATIKA INFORMATIKA /** ***MATHEMATICS FOR INFORMATICS*** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|-|
-AMS200	| **PROBABILITAS & STATISTIKA /** ***PROBABILITY & STATISTICS*** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|-|
+AMS200	| **PROBABILITAS & STATISTIKA /** ***PROBABILITY & STATISTICS*** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|-|  
 
 ## Bab 3 : Kegiatan Akademik
 
@@ -1358,7 +1358,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
     3.  Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir pertama. di atas.  
   
 
-## 3.5 Pengunduran Diri Sebagai Mahasiswa  
+### 3.5 Pengunduran Diri Sebagai Mahasiswa  
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :  
 
   1.  Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.  
@@ -1366,7 +1366,7 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
   3.  Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).  
   4.  Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:  
     *	SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.  
-    *	Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
+    *	Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.  
 
 ## Bab 4 : Evaluasi Keberhasilan Belajar
 
