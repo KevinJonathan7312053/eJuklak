@@ -1462,7 +1462,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kum
  
 ![](images/ipk.PNG)  
 
-dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
+dengan (sks × bobot NAi) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
 1.	Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
 2.	IPK ≥ 2,00.
 3.	Masa studi terpakai tidak lebih dari 14 (empat belas) semester.
