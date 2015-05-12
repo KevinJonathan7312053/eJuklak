@@ -5,23 +5,7 @@
 
     <item
         android:id="@+id/action_example1"
-        android:title="@string/Welcome !"
-        app:showAsAction="withText|ifRoom"/>
-    <item
-        android:id="@+id/action_example2"
-        android:title="@string/Pendahuluan"
-        app:showAsAction="withText|ifRoom"/>
-    <item
-        android:id="@+id/action_example3"
-        android:title="@string/Penyelenggaraan Mata Kuliah"
-        app:showAsAction="withText|ifRoom"/>
-    <item
-        android:id="@+id/action_example4"
-        android:title="@string/Kegiatan Akademik"
-        app:showAsAction="withText|ifRoom"/>
-    <item
-        android:id="@+id/action_example5"
-        android:title="@string/Evaluasi Keberhasilan Belajar"
+        android:title="Web UNPAR"
         app:showAsAction="withText|ifRoom"/>
     <item
         android:id="@+id/action_settings"
