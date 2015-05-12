@@ -33,6 +33,11 @@ blockquote{
 	height:200px;
 }
 
+#ipk,#ips{
+	width:80px;
+	height:110px;
+}
+
 img{
 	width:100%;
 	height:100%;
