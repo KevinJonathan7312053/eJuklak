@@ -2,6 +2,10 @@ body{
 	font-family: Arial;
 }
 
+table{
+	border: 1px solid #999;
+}
+
 th {
 border-bottom: 2px solid #111111;
 border-top: 1px solid #999;
@@ -34,8 +38,8 @@ blockquote{
 }
 
 #ipk,#ips{
-	width:80px;
-	height:110px;
+	width:75%;
+	height:100px;
 }
 
 img{
@@ -45,4 +49,8 @@ img{
 
 tr.even{
 	background-color:#D8D8D8;
+}
+
+tr.odd{
+	background-color:#F2F2F2;
 }
