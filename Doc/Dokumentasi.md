@@ -36,5 +36,9 @@
   * ![](files/UseCase Diagram eJuklak.png)  
 * Class Diagram
   * ![](files/Class DiagramEjuklak.png)
+  * Main Activity Class
+    * Kelas Main Activity sebagai pusat aktivitas pada aplikasi kelompok kami. Di dalam kelas ini memanggil kelas webView yang telah disediakan oleh Java. Kelas ini berguna untuk menampilkan seluruh hasil HTML serta dapat melakukan zoom-in dan zoom-out.
+  * Navigation Drawer Fragment
+    * Kelas Navigation Drawer Fragment sebagai pembuat navigasi menu drawer. Pada kelas ini hanya di fokuskan untuk mengisi navigasi menu drawer dengan anchor-anchor yang dituju. Menu drawer kelompok kami dapat di klik di sebelah kiri atas layar dan setelah di klik akan muncul anchor-anchor yang diisi di dalam kelas ini.
 * Sequence Diagram
   * ![](files/Sequence Diagram eJuklak.png)
